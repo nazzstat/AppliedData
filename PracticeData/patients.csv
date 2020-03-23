@@ -1,0 +1,5 @@
+"patientID","age","sex","diabetes","status"
+111,25,1,"Type1",1
+208,34,2,"Type2",2
+113,28,1,"Type1",3
+408,52,1,"Type1",1
