@@ -1,0 +1,1281 @@
+"","ID","Gender","Age","Race","Education","MaritalStatus","Testosterone","GeneralHealth","BMI","PhysActiveDays","Diabetes","BP_Sys_Reading1","BP_Sys_Reading2","Work"
+"1",62172,"female",43,"Black","High School","NeverMarried",47.53,"Good",33.3,2,0,100,102,0
+"2",62199,"male",57,"White","College Grad","LivePartner",269.24,"Vgood",28,2,0,112,108,1
+"3",62199,"male",57,"White","College Grad","LivePartner",269.24,"Vgood",28,7,0,112,108,1
+"4",62205,"male",28,"White","College Grad","NeverMarried",466.11,"Good",28.9,1,0,116,122,1
+"5",62220,"female",31,"Black","College Grad","NeverMarried",35.95,"Good",40.4,3,0,118,122,1
+"6",62222,"male",32,"White","College Grad","Married",343.14,"Good",25,2,0,106,108,1
+"7",62231,"female",48,"Mexican","High School","Married",14.9,"Good",33.2,3,0,120,116,1
+"8",62237,"female",58,"White","College Grad","Married",18.31,"Good",39.9,3,0,126,124,0
+"9",62237,"female",58,"White","College Grad","Married",18.31,"Good",39.9,5,0,126,124,0
+"10",62259,"male",61,"Black","Some College","Divorced",357.13,"Good",41.7,1,1,138,140,0
+"11",62277,"female",55,"White","Some College","Divorced",12.5,"Good",25,3,0,116,106,1
+"12",62279,"male",80,"Black","9 - 11th Grade","Widowed",447.8,"Good",21.9,6,0,114,104,0
+"13",62279,"male",80,"Black","9 - 11th Grade","Widowed",447.8,"Good",21.9,5,0,114,104,0
+"14",62291,"male",56,"Other","Some College","Married",257.94,"Fair",29.9,7,0,122,120,1
+"15",62297,"male",43,"Black","Some College","Married",619.4,"Vgood",31.1,3,0,126,122,1
+"16",62301,"male",23,"Black","9 - 11th Grade","NeverMarried",505,"Excellent",33,2,0,112,118,1
+"17",62308,"female",78,"White","High School","Married",18.02,"Vgood",24.6,5,0,108,110,0
+"18",62340,"male",44,"White","Some College","Married",296.66,"Vgood",25.9,3,0,106,106,1
+"19",62340,"male",44,"White","Some College","Married",296.66,"Vgood",25.9,5,0,106,106,1
+"20",62340,"male",44,"White","Some College","Married",296.66,"Vgood",25.9,3,0,106,106,1
+"21",62342,"female",38,"White","Some College","Married",36.68,"Good",32.9,2,0,126,114,1
+"22",62342,"female",38,"White","Some College","Married",36.68,"Good",32.9,7,0,126,114,1
+"23",62347,"female",71,"White","High School","Widowed",15.05,"Vgood",24,2,0,156,158,1
+"24",62349,"female",23,"White","Some College","Married",34.72,"Fair",38,1,0,116,106,0
+"25",62350,"female",43,"White","High School","Divorced",9.63,"Excellent",22.3,2,0,112,112,1
+"26",62357,"male",36,"White","Some College","Married",555.22,"Vgood",25.6,5,0,104,110,1
+"27",62363,"female",44,"White","9 - 11th Grade","Divorced",12.2,"Vgood",25.8,4,0,114,108,0
+"28",62388,"female",69,"White","High School","Widowed",26.91,"Fair",38.4,2,1,128,124,1
+"29",62413,"male",65,"White","Some College","LivePartner",335.75,"Fair",40,2,1,140,136,0
+"30",62413,"male",65,"White","Some College","LivePartner",335.75,"Fair",40,1,1,140,136,0
+"31",62415,"female",27,"White","Some College","Married",75.86,"Vgood",26.7,2,0,98,90,1
+"32",62415,"female",27,"White","Some College","Married",75.86,"Vgood",26.7,5,0,98,90,1
+"33",62418,"male",80,"White","8th Grade","Widowed",683.12,"Fair",23.5,2,0,156,162,0
+"34",62418,"male",80,"White","8th Grade","Widowed",683.12,"Fair",23.5,3,0,156,162,0
+"35",62422,"female",72,"White","Some College","Widowed",32.86,"Vgood",29,1,0,120,116,0
+"36",62422,"female",72,"White","Some College","Widowed",32.86,"Vgood",29,2,0,120,116,0
+"37",62424,"male",20,"Hispanic","9 - 11th Grade","NeverMarried",506.86,"Fair",30.4,1,0,136,136,1
+"38",62439,"male",75,"White","Some College","Married",355.35,"Good",33,5,1,136,140,0
+"39",62440,"male",22,"Mexican","Some College","Married",467.22,"Good",30.2,7,0,122,114,1
+"40",62444,"female",23,"Black","College Grad","NeverMarried",19.76,"Fair",33.6,6,0,112,116,1
+"41",62460,"male",41,"White","College Grad","Married",299.19,"Good",21.9,3,0,120,124,1
+"42",62467,"male",65,"White","College Grad","Married",711.53,"Vgood",25.6,2,0,122,116,1
+"43",62481,"female",39,"Hispanic","College Grad","Separated",48.93,"Vgood",27.7,3,0,98,96,1
+"44",62491,"female",61,"Other","High School","Married",27.5,"Good",27.8,5,0,122,118,0
+"45",62501,"female",30,"White","College Grad","Married",21.94,"Vgood",25.6,7,0,110,110,1
+"46",62510,"female",80,"White","High School","Married",29.53,"Good",29.8,3,0,168,164,0
+"47",62517,"male",80,"White","8th Grade","Married",112.92,"Good",32.3,1,1,158,156,0
+"48",62524,"male",23,"White","College Grad","NeverMarried",793.75,"Excellent",24,3,0,110,108,1
+"49",62530,"female",51,"White","9 - 11th Grade","Divorced",20.65,"Good",36.3,5,1,124,122,1
+"50",62536,"male",46,"Other","9 - 11th Grade","LivePartner",238.35,"Vgood",27.5,4,0,110,108,1
+"51",62536,"male",46,"Other","9 - 11th Grade","LivePartner",238.35,"Vgood",27.5,7,0,110,108,1
+"52",62546,"male",64,"Mexican","Some College","Widowed",170.65,"Good",36.5,5,0,138,150,1
+"53",62551,"female",37,"White","College Grad","Married",91.08,"Good",48.2,5,0,136,132,1
+"54",62552,"female",41,"White","College Grad","Married",18.25,"Vgood",22.5,7,0,118,108,1
+"55",62552,"female",41,"White","College Grad","Married",18.25,"Vgood",22.5,7,0,118,108,1
+"56",62555,"male",35,"Black","Some College","LivePartner",487.2,"Vgood",20.2,1,0,128,130,1
+"57",62571,"female",32,"White","College Grad","NeverMarried",49.93,"Excellent",27.8,1,0,102,100,0
+"58",62575,"female",24,"White","Some College","Married",23.1,"Excellent",22,2,0,130,132,0
+"59",62575,"female",24,"White","Some College","Married",23.1,"Excellent",22,3,0,130,132,0
+"60",62575,"female",24,"White","Some College","Married",23.1,"Excellent",22,3,0,130,132,0
+"61",62575,"female",24,"White","Some College","Married",23.1,"Excellent",22,7,0,130,132,0
+"62",62588,"male",21,"White","Some College","NeverMarried",563.67,"Good",20.7,1,0,132,124,1
+"63",62588,"male",21,"White","Some College","NeverMarried",563.67,"Good",20.7,2,0,132,124,1
+"64",62593,"female",72,"White","College Grad","Widowed",24.52,"Vgood",34.5,5,0,110,110,1
+"65",62595,"female",28,"Other","Some College","Married",24.04,"Good",23.8,5,0,94,94,1
+"66",62602,"female",80,"White","Some College","Widowed",15.22,"Excellent",25.8,3,0,140,136,0
+"67",62604,"female",73,"White","High School","NeverMarried",12.64,"Good",22.2,2,0,150,144,0
+"68",62604,"female",73,"White","High School","NeverMarried",12.64,"Good",22.2,5,0,150,144,0
+"69",62630,"female",68,"White","9 - 11th Grade","Widowed",18.88,"Good",31,4,0,154,160,1
+"70",62631,"female",37,"White","Some College","Married",33.88,"Fair",23.8,5,0,114,114,0
+"71",62644,"male",61,"Black","Some College","Widowed",39.68,"Poor",42,7,1,118,136,0
+"72",62644,"male",61,"Black","Some College","Widowed",39.68,"Poor",42,3,1,118,136,0
+"73",62649,"male",76,"Black","High School","Married",324,"Good",36.6,2,0,120,118,0
+"74",62651,"male",55,"White","High School","Divorced",353.41,"Good",39.5,1,1,140,140,1
+"75",62661,"male",35,"White","Some College","NeverMarried",429.65,"Good",21.2,1,0,114,110,1
+"76",62664,"male",64,"White","College Grad","Married",144,"Good",39.4,5,1,138,140,1
+"77",62674,"female",33,"White","College Grad","Married",44.74,"Excellent",21.5,1,0,106,96,1
+"78",62685,"male",36,"Other","High School","NeverMarried",452.77,"Fair",22.5,3,0,128,128,1
+"79",62704,"male",80,"Other","High School","Married",570.74,"Excellent",24.8,5,0,154,148,1
+"80",62714,"male",75,"Mexican","8th Grade","Married",314,"Fair",27,2,1,126,124,0
+"81",62716,"female",42,"Other","College Grad","Married",14.92,"Fair",23.3,7,0,100,104,0
+"82",62720,"male",58,"White","College Grad","Married",137.92,"Good",26.1,3,0,122,128,1
+"83",62724,"female",57,"White","College Grad","Married",17.1,"Vgood",26.1,7,0,112,120,1
+"84",62757,"male",54,"White","High School","Divorced",346.5,"Good",36.1,3,0,132,126,1
+"85",62763,"male",29,"White","Some College","Married",394.07,"Good",31.8,3,0,128,128,1
+"86",62764,"female",51,"Hispanic","High School","NeverMarried",15.99,"Fair",48.6,5,0,142,142,0
+"87",62772,"female",46,"Mexican","College Grad","NeverMarried",12.39,"Vgood",38.1,5,1,148,150,0
+"88",62793,"male",72,"White","High School","Married",209.58,"Good",29.9,2,0,132,126,1
+"89",62798,"male",50,"Hispanic","9 - 11th Grade","Married",353.68,"Vgood",25.8,2,0,118,124,1
+"90",62803,"female",34,"White","Some College","Married",44.21,"Vgood",22.6,4,0,118,110,1
+"91",62803,"female",34,"White","Some College","Married",44.21,"Vgood",22.6,3,0,118,110,1
+"92",62804,"male",69,"White","College Grad","Married",425.46,"Good",30.8,3,0,128,118,0
+"93",62804,"male",69,"White","College Grad","Married",425.46,"Good",30.8,2,0,128,118,0
+"94",62804,"male",69,"White","College Grad","Married",425.46,"Good",30.8,1,0,128,118,0
+"95",62806,"male",53,"Black","9 - 11th Grade","LivePartner",227,"Vgood",25,2,0,108,116,0
+"96",62817,"male",41,"Black","High School","LivePartner",412.26,"Vgood",31.9,5,1,112,116,1
+"97",62822,"male",33,"White","College Grad","LivePartner",462.1,"Vgood",25.1,1,0,116,114,0
+"98",62824,"female",40,"Black","College Grad","Married",15.56,"Vgood",34.8,1,0,122,118,1
+"99",62861,"female",80,"White","High School","Married",27.68,"Good",18.4,3,1,140,136,0
+"100",62880,"female",64,"White","College Grad","Married",6.72,"Good",26.4,7,0,128,116,1
+"101",62880,"female",64,"White","College Grad","Married",6.72,"Good",26.4,3,0,128,116,1
+"102",62895,"male",33,"White","College Grad","Married",424.24,"Vgood",29.7,3,0,102,104,1
+"103",62895,"male",33,"White","College Grad","Married",424.24,"Vgood",29.7,2,0,102,104,1
+"104",62898,"female",24,"Black","9 - 11th Grade","Married",31.27,"Fair",30.5,4,0,104,102,1
+"105",62902,"female",48,"White","Some College","Married",14.91,"Vgood",27.1,1,0,110,106,0
+"106",62922,"female",31,"White","Some College","NeverMarried",25.75,"Good",22.7,5,0,132,130,1
+"107",62922,"female",31,"White","Some College","NeverMarried",25.75,"Good",22.7,2,0,132,130,1
+"108",62927,"male",63,"White","Some College","Married",579.1,"Vgood",30.8,2,0,132,126,1
+"109",62927,"male",63,"White","Some College","Married",579.1,"Vgood",30.8,1,0,132,126,1
+"110",62927,"male",63,"White","Some College","Married",579.1,"Vgood",30.8,2,0,132,126,1
+"111",62967,"male",36,"Black","9 - 11th Grade","NeverMarried",565.02,"Good",22.2,5,0,124,120,1
+"112",62982,"female",66,"White","High School","Widowed",9.26,"Good",33.6,2,1,122,124,0
+"113",62991,"male",24,"White","College Grad","Married",723.23,"Vgood",24.3,4,0,108,114,0
+"114",62991,"male",24,"White","College Grad","Married",723.23,"Vgood",24.3,5,0,108,114,0
+"115",62997,"male",60,"White","Some College","Married",345.1,"Good",36.4,1,0,118,120,1
+"116",63003,"male",40,"White","9 - 11th Grade","Married",453,"Good",34.1,3,0,118,114,1
+"117",63003,"male",40,"White","9 - 11th Grade","Married",453,"Good",34.1,2,0,118,114,1
+"118",63015,"male",65,"Other","Some College","Married",614.3,"Fair",23.7,3,0,136,128,0
+"119",63022,"male",49,"White","8th Grade","Married",490.8,"Fair",28.9,4,0,120,124,0
+"120",63023,"male",25,"White","Some College","LivePartner",836.64,"Good",22.4,5,0,114,116,1
+"121",63030,"male",21,"Mexican","9 - 11th Grade","LivePartner",477,"Good",25.9,5,0,110,116,1
+"122",63033,"male",45,"White","College Grad","Married",281.29,"Good",30.8,2,0,106,106,1
+"123",63041,"male",35,"Other","College Grad","NeverMarried",568.92,"Good",27.1,3,0,118,118,1
+"124",63045,"female",53,"Mexican","9 - 11th Grade","Separated",8.67,"Fair",35,2,0,110,116,1
+"125",63056,"male",21,"Other","Some College","NeverMarried",661.85,"Vgood",18.9,1,0,106,104,0
+"126",63071,"female",53,"Black","College Grad","Widowed",7.53,"Vgood",29.9,3,0,152,142,1
+"127",63077,"male",38,"White","College Grad","Married",408.63,"Excellent",24.4,5,0,120,118,1
+"128",63082,"female",59,"White","9 - 11th Grade","LivePartner",18.89,"Fair",22.1,3,0,122,114,0
+"129",63082,"female",59,"White","9 - 11th Grade","LivePartner",18.89,"Fair",22.1,2,0,122,114,0
+"130",63082,"female",59,"White","9 - 11th Grade","LivePartner",18.89,"Fair",22.1,7,0,122,114,0
+"131",63089,"female",43,"White","College Grad","Married",25.54,"Good",30.3,5,0,124,130,1
+"132",63094,"male",80,"White","Some College","Married",392.71,"Vgood",28.4,7,1,146,140,0
+"133",63106,"male",50,"White","9 - 11th Grade","Divorced",525.37,"Fair",27.9,3,0,122,124,0
+"134",63126,"male",44,"White","College Grad","Married",773.86,"Excellent",27,6,0,122,122,1
+"135",63127,"male",28,"Other","Some College","Married",444.76,"Good",27.7,5,0,122,128,1
+"136",63128,"female",34,"Black","Some College","Separated",45.1,"Vgood",18,3,0,108,110,1
+"137",63149,"female",43,"White","High School","Married",25.83,"Vgood",23.6,5,0,148,146,0
+"138",63149,"female",43,"White","High School","Married",25.83,"Vgood",23.6,1,0,148,146,0
+"139",63149,"female",43,"White","High School","Married",25.83,"Vgood",23.6,3,0,148,146,0
+"140",63149,"female",43,"White","High School","Married",25.83,"Vgood",23.6,2,0,148,146,0
+"141",63152,"female",62,"Other","College Grad","NeverMarried",13.95,"Good",22,1,0,136,128,0
+"142",63154,"male",36,"Mexican","8th Grade","Married",293.01,"Excellent",27.8,1,0,100,100,1
+"143",63156,"female",70,"White","Some College","Married",13.4,"Good",29,3,0,134,134,0
+"144",63159,"male",48,"White","Some College","Married",136,"Good",37.6,5,0,124,118,0
+"145",63162,"female",58,"Black","Some College","Divorced",19.52,"Good",38.9,7,0,130,132,0
+"146",63198,"male",80,"Black","College Grad","Widowed",228.04,"Good",26.6,5,1,124,120,0
+"147",63200,"female",59,"White","College Grad","Married",4.37,"Good",26.9,6,0,142,142,1
+"148",63205,"male",67,"White","8th Grade","Married",328.15,"Fair",20.8,1,0,164,164,0
+"149",63206,"male",38,"Black","Some College","LivePartner",528.82,"Good",20,2,0,96,104,1
+"150",63215,"female",62,"Black","Some College","Divorced",41.82,"Good",59.1,3,1,130,128,1
+"151",63219,"male",39,"Other","College Grad","NeverMarried",603.01,"Vgood",20.6,3,0,114,110,1
+"152",63223,"male",59,"White","Some College","Divorced",340.54,"Good",32.8,2,0,132,124,1
+"153",63223,"male",59,"White","Some College","Divorced",340.54,"Good",32.8,4,0,132,124,1
+"154",63224,"female",31,"Mexican","9 - 11th Grade","Married",23.98,"Good",29.3,3,0,112,112,1
+"155",63234,"female",35,"Other","College Grad","NeverMarried",12.82,"Fair",24.6,6,0,122,116,1
+"156",63249,"male",67,"White","College Grad","LivePartner",267.57,"Excellent",25.5,7,0,126,132,1
+"157",63267,"female",72,"White","High School","Widowed",26.76,"Fair",41.7,5,1,124,132,0
+"158",63283,"male",36,"Other","Some College","Married",285.69,"Good",30.2,3,0,112,112,1
+"159",63284,"male",79,"White","Some College","Married",392.26,"Good",30.6,3,0,120,112,0
+"160",63295,"male",80,"White","College Grad","Married",569,"Vgood",23.3,3,0,134,132,0
+"161",63297,"male",50,"White","College Grad","Married",246.82,"Good",30.6,6,0,112,108,1
+"162",63297,"male",50,"White","College Grad","Married",246.82,"Good",30.6,3,0,112,108,1
+"163",63297,"male",50,"White","College Grad","Married",246.82,"Good",30.6,2,0,112,108,1
+"164",63297,"male",50,"White","College Grad","Married",246.82,"Good",30.6,4,0,112,108,1
+"165",63297,"male",50,"White","College Grad","Married",246.82,"Good",30.6,6,0,112,108,1
+"166",63302,"male",28,"White","Some College","NeverMarried",642.83,"Fair",22.6,5,0,120,116,1
+"167",63302,"male",28,"White","Some College","NeverMarried",642.83,"Fair",22.6,4,0,120,116,1
+"168",63317,"male",32,"Other","High School","NeverMarried",716.62,"Good",25.6,7,0,110,118,1
+"169",63352,"male",64,"White","High School","Married",933.36,"Good",22.9,3,1,136,138,1
+"170",63361,"male",67,"Black","College Grad","Widowed",326,"Good",25.6,3,0,144,144,0
+"171",63389,"male",80,"White","Some College","Married",13.52,"Vgood",22.7,3,0,162,166,0
+"172",63390,"male",53,"White","Some College","Divorced",586.69,"Good",34.1,3,0,118,118,1
+"173",63390,"male",53,"White","Some College","Divorced",586.69,"Good",34.1,7,0,118,118,1
+"174",63390,"male",53,"White","Some College","Divorced",586.69,"Good",34.1,4,0,118,118,1
+"175",63398,"female",78,"Other","8th Grade","Widowed",22.47,"Vgood",26.6,2,0,162,166,0
+"176",63409,"female",69,"Black","Some College","Widowed",32.16,"Good",32.4,5,0,130,134,0
+"177",63413,"female",61,"White","College Grad","Separated",19.93,"Vgood",31.7,1,0,124,124,1
+"178",63413,"female",61,"White","College Grad","Separated",19.93,"Vgood",31.7,4,0,124,124,1
+"179",63426,"male",58,"White","9 - 11th Grade","Divorced",669.82,"Fair",26.9,2,0,134,148,1
+"180",63436,"female",80,"White","9 - 11th Grade","Widowed",31.64,"Fair",21.2,7,0,164,172,0
+"181",63463,"female",61,"White","Some College","Married",39.51,"Vgood",21.7,1,0,138,136,1
+"182",63463,"female",61,"White","Some College","Married",39.51,"Vgood",21.7,4,0,138,136,1
+"183",63463,"female",61,"White","Some College","Married",39.51,"Vgood",21.7,4,0,138,136,1
+"184",63463,"female",61,"White","Some College","Married",39.51,"Vgood",21.7,7,0,138,136,1
+"185",63472,"female",24,"White","Some College","LivePartner",27.39,"Vgood",24.6,4,0,92,86,1
+"186",63472,"female",24,"White","Some College","LivePartner",27.39,"Vgood",24.6,3,0,92,86,1
+"187",63484,"male",69,"White","College Grad","Divorced",623.42,"Excellent",24.3,5,0,164,168,0
+"188",63489,"male",32,"White","College Grad","Married",245.4,"Good",37.8,1,0,130,128,1
+"189",63504,"male",54,"Mexican","8th Grade","Married",330.3,"Good",31.8,4,0,146,144,1
+"190",63510,"female",56,"White","Some College","Married",20.79,"Vgood",21.6,1,0,112,112,1
+"191",63510,"female",56,"White","Some College","Married",20.79,"Vgood",21.6,7,0,112,112,1
+"192",63514,"female",80,"Black","High School","Widowed",17.44,"Good",32.2,3,0,154,158,0
+"193",63515,"female",54,"White","Some College","Married",20.33,"Vgood",27.1,5,0,100,92,1
+"194",63523,"female",22,"Other","College Grad","NeverMarried",72.33,"Good",21,7,0,104,108,1
+"195",63545,"female",56,"Black","College Grad","Married",15.5,"Good",25.1,3,0,118,112,1
+"196",63551,"female",54,"White","High School","Married",18.03,"Vgood",28.6,2,0,126,134,1
+"197",63552,"male",50,"Hispanic","Some College","Married",325.64,"Vgood",31.1,3,0,124,122,1
+"198",63572,"female",28,"White","College Grad","NeverMarried",29.29,"Good",33.8,7,0,108,108,1
+"199",63576,"male",46,"Hispanic","College Grad","LivePartner",448.98,"Good",27.7,3,0,138,142,1
+"200",63582,"female",57,"White","Some College","Married",8.75,"Fair",23.1,5,0,114,116,0
+"201",63588,"female",80,"White","Some College","Married",0.65,"Vgood",19.5,1,0,126,126,0
+"202",63588,"female",80,"White","Some College","Married",0.65,"Vgood",19.5,3,0,126,126,0
+"203",63615,"female",26,"White","College Grad","NeverMarried",23.33,"Vgood",23.6,2,0,96,100,1
+"204",63617,"male",29,"White","College Grad","Married",421.58,"Vgood",23.2,2,0,120,102,1
+"205",63621,"female",61,"White","College Grad","Married",10.02,"Vgood",23.9,3,0,136,136,1
+"206",63627,"female",80,"White","Some College","Married",12,"Vgood",28.7,3,0,164,150,0
+"207",63631,"female",32,"White","College Grad","Married",16.64,"Good",24.5,4,0,96,102,1
+"208",63633,"male",48,"Black","College Grad","Married",451.93,"Good",30.6,4,1,170,162,1
+"209",63638,"female",47,"White","College Grad","Married",17.97,"Good",35,1,0,118,118,1
+"210",63638,"female",47,"White","College Grad","Married",17.97,"Good",35,6,0,118,118,1
+"211",63638,"female",47,"White","College Grad","Married",17.97,"Good",35,5,0,118,118,1
+"212",63652,"male",28,"Black","High School","NeverMarried",204,"Good",18.3,7,0,120,130,0
+"213",63673,"male",43,"White","9 - 11th Grade","Married",387.39,"Fair",32.7,5,0,160,164,1
+"214",63684,"female",54,"Black","Some College","Divorced",13.32,"Vgood",28.8,3,0,142,136,1
+"215",63684,"female",54,"Black","Some College","Divorced",13.32,"Vgood",28.8,3,0,142,136,1
+"216",63689,"female",66,"White","High School","Married",23.6,"Vgood",26.4,3,0,106,108,0
+"217",63698,"male",42,"Hispanic","8th Grade","NeverMarried",107.91,"Good",33.5,5,1,114,114,0
+"218",63700,"male",40,"Black","High School","Separated",302.95,"Fair",31.9,2,1,142,146,1
+"219",63701,"male",55,"White","College Grad","Married",494.51,"Excellent",25.7,4,0,124,124,1
+"220",63714,"male",48,"White","Some College","Married",166,"Vgood",36.7,3,0,116,116,1
+"221",63714,"male",48,"White","Some College","Married",166,"Vgood",36.7,6,0,116,116,1
+"222",63719,"male",21,"White","High School","NeverMarried",673.37,"Good",19.3,4,0,120,124,0
+"223",63759,"male",56,"White","College Grad","Married",591.37,"Vgood",21.8,6,0,126,126,1
+"224",63762,"male",23,"White","Some College","Married",734.77,"Vgood",28.3,6,1,114,120,1
+"225",63766,"female",54,"White","Some College","Married",18.2,"Good",27.4,4,0,122,124,1
+"226",63788,"female",40,"White","High School","Divorced",22.34,"Good",18.2,7,0,116,110,1
+"227",63795,"male",59,"White","Some College","LivePartner",574.78,"Good",26.4,4,0,136,144,0
+"228",63795,"male",59,"White","Some College","LivePartner",574.78,"Good",26.4,3,0,136,144,0
+"229",63795,"male",59,"White","Some College","LivePartner",574.78,"Good",26.4,4,0,136,144,0
+"230",63803,"female",36,"Mexican","9 - 11th Grade","LivePartner",10.2,"Fair",23.5,3,0,108,106,1
+"231",63825,"male",31,"Other","College Grad","NeverMarried",402.76,"Vgood",24.4,3,0,126,130,1
+"232",63828,"female",64,"White","Some College","Married",25.99,"Good",26.1,1,0,130,130,0
+"233",63828,"female",64,"White","Some College","Married",25.99,"Good",26.1,3,0,130,130,0
+"234",63828,"female",64,"White","Some College","Married",25.99,"Good",26.1,4,0,130,130,0
+"235",63832,"male",46,"White","Some College","Married",262.9,"Good",34.4,7,0,104,106,1
+"236",63837,"female",70,"White","Some College","Widowed",33.42,"Vgood",39.7,5,0,118,116,0
+"237",63847,"male",58,"White","High School","NeverMarried",310.73,"Vgood",28.1,4,0,128,132,1
+"238",63849,"male",34,"White","Some College","Married",283.04,"Good",30.1,4,0,124,122,1
+"239",63849,"male",34,"White","Some College","Married",283.04,"Good",30.1,4,0,124,122,1
+"240",63849,"male",34,"White","Some College","Married",283.04,"Good",30.1,1,0,124,122,1
+"241",63852,"male",50,"White","Some College","Married",404.31,"Vgood",32,1,0,102,104,1
+"242",63861,"male",63,"White","College Grad","Married",512.15,"Excellent",20,6,0,114,112,1
+"243",63868,"male",69,"White","College Grad","Divorced",342.81,"Excellent",25.8,4,0,124,112,1
+"244",63871,"female",45,"Black","College Grad","Married",27.3,"Vgood",33.6,3,0,114,106,1
+"245",63877,"female",20,"Black","Some College","NeverMarried",35.32,"Good",17.7,4,0,106,100,1
+"246",63877,"female",20,"Black","Some College","NeverMarried",35.32,"Good",17.7,2,0,106,100,1
+"247",63881,"female",25,"White","College Grad","NeverMarried",37.19,"Excellent",21.2,7,0,104,106,0
+"248",63881,"female",25,"White","College Grad","NeverMarried",37.19,"Excellent",21.2,3,0,104,106,0
+"249",63908,"male",55,"Mexican","9 - 11th Grade","Married",404.85,"Vgood",31.9,2,1,100,114,1
+"250",63909,"female",62,"White","Some College","Married",23.99,"Excellent",32.2,3,1,134,138,0
+"251",63909,"female",62,"White","Some College","Married",23.99,"Excellent",32.2,2,1,134,138,0
+"252",63918,"male",49,"White","College Grad","Married",272.38,"Vgood",29.4,4,0,120,118,1
+"253",63918,"male",49,"White","College Grad","Married",272.38,"Vgood",29.4,3,0,120,118,1
+"254",63927,"male",37,"Mexican","8th Grade","Married",293,"Good",27,4,0,128,126,1
+"255",63943,"female",29,"White","Some College","LivePartner",33.02,"Vgood",29.4,3,0,120,116,1
+"256",63982,"female",69,"White","Some College","Widowed",16.63,"Fair",32.7,7,0,128,118,0
+"257",63983,"male",31,"White","9 - 11th Grade","Married",357.75,"Good",27,5,0,122,122,0
+"258",64017,"female",24,"White","Some College","Married",19.82,"Excellent",24.5,5,0,102,102,1
+"259",64017,"female",24,"White","Some College","Married",19.82,"Excellent",24.5,4,0,102,102,1
+"260",64029,"male",22,"Mexican","High School","NeverMarried",767,"Vgood",32,1,0,116,124,1
+"261",64029,"male",22,"Mexican","High School","NeverMarried",767,"Vgood",32,1,0,116,124,1
+"262",64040,"male",31,"Other","Some College","NeverMarried",337.97,"Vgood",33,1,0,112,112,1
+"263",64048,"female",54,"White","Some College","Divorced",6.58,"Good",26.2,5,0,124,126,1
+"264",64065,"male",46,"White","Some College","Married",270.74,"Good",29.3,3,0,132,130,1
+"265",64082,"male",64,"White","High School","Married",716.55,"Good",27.5,1,0,124,130,1
+"266",64082,"male",64,"White","High School","Married",716.55,"Good",27.5,7,0,124,130,1
+"267",64134,"female",49,"Black","Some College","Married",16.26,"Excellent",28.3,1,0,130,126,1
+"268",64138,"male",36,"Other","College Grad","LivePartner",313.69,"Good",23.5,3,0,124,122,1
+"269",64149,"male",29,"White","Some College","LivePartner",328.41,"Good",34.7,2,0,116,118,1
+"270",64149,"male",29,"White","Some College","LivePartner",328.41,"Good",34.7,2,0,116,118,1
+"271",64157,"female",68,"White","Some College","LivePartner",32.25,"Vgood",19.7,3,0,132,136,0
+"272",64157,"female",68,"White","Some College","LivePartner",32.25,"Vgood",19.7,6,0,132,136,0
+"273",64158,"male",27,"Black","Some College","Married",638.01,"Vgood",26.1,5,0,120,120,0
+"274",64173,"female",38,"Other","Some College","Married",16.29,"Good",21.2,2,1,116,118,0
+"275",64181,"female",56,"Mexican","High School","LivePartner",10.02,"Vgood",36.3,2,0,106,106,0
+"276",64181,"female",56,"Mexican","High School","LivePartner",10.02,"Vgood",36.3,5,0,106,106,0
+"277",64182,"female",67,"White","High School","Married",33.8,"Vgood",22,7,0,122,118,0
+"278",64213,"male",37,"Mexican","9 - 11th Grade","LivePartner",445.77,"Good",40.1,6,0,102,100,1
+"279",64222,"male",39,"White","College Grad","Married",451.26,"Good",24.9,1,0,118,118,1
+"280",64222,"male",39,"White","College Grad","Married",451.26,"Good",24.9,7,0,118,118,1
+"281",64222,"male",39,"White","College Grad","Married",451.26,"Good",24.9,1,0,118,118,1
+"282",64222,"male",39,"White","College Grad","Married",451.26,"Good",24.9,4,0,118,118,1
+"283",64228,"male",44,"White","High School","NeverMarried",529.13,"Fair",37,4,1,128,130,1
+"284",64228,"male",44,"White","High School","NeverMarried",529.13,"Fair",37,4,1,128,130,1
+"285",64228,"male",44,"White","High School","NeverMarried",529.13,"Fair",37,1,1,128,130,1
+"286",64228,"male",44,"White","High School","NeverMarried",529.13,"Fair",37,5,1,128,130,1
+"287",64228,"male",44,"White","High School","NeverMarried",529.13,"Fair",37,3,1,128,130,1
+"288",64229,"female",50,"White","High School","Married",9.75,"Good",36.5,5,0,120,120,1
+"289",64244,"female",40,"White","College Grad","NeverMarried",9.72,"Vgood",23.5,3,0,102,102,1
+"290",64265,"male",48,"Black","College Grad","Divorced",223.29,"Good",31.5,7,0,100,102,1
+"291",64266,"male",31,"White","College Grad","LivePartner",466.89,"Vgood",26.5,3,0,114,116,1
+"292",64281,"male",44,"Hispanic","College Grad","Married",241.86,"Good",36.6,2,0,120,132,1
+"293",64292,"male",45,"Black","High School","Separated",494,"Excellent",20.7,7,0,110,104,1
+"294",64298,"female",68,"Black","Some College","Widowed",21.33,"Vgood",33.5,6,0,130,130,1
+"295",64302,"male",45,"White","College Grad","Married",249.74,"Poor",37.4,5,0,100,96,1
+"296",64302,"male",45,"White","College Grad","Married",249.74,"Poor",37.4,7,0,100,96,1
+"297",64310,"female",49,"White","College Grad","Married",10.04,"Good",29.9,2,0,124,124,1
+"298",64315,"female",52,"White","9 - 11th Grade","NeverMarried",17.3,"Vgood",24.9,5,0,124,128,1
+"299",64315,"female",52,"White","9 - 11th Grade","NeverMarried",17.3,"Vgood",24.9,2,0,124,128,1
+"300",64356,"male",20,"Mexican","High School","NeverMarried",840,"Good",17.6,3,0,122,124,0
+"301",64356,"male",20,"Mexican","High School","NeverMarried",840,"Good",17.6,4,0,122,124,0
+"302",64363,"male",22,"Other","High School","NeverMarried",188.02,"Good",31.4,1,0,128,130,1
+"303",64368,"male",70,"Black","8th Grade","Divorced",199,"Vgood",24.3,4,1,142,134,0
+"304",64376,"male",58,"White","High School","Divorced",439.94,"Poor",22.5,4,0,128,140,0
+"305",64399,"female",45,"White","College Grad","Divorced",17.61,"Good",25.4,3,0,122,116,0
+"306",64402,"male",48,"Mexican","College Grad","Married",268.75,"Fair",30.5,7,0,122,124,1
+"307",64402,"male",48,"Mexican","College Grad","Married",268.75,"Fair",30.5,5,0,122,124,1
+"308",64403,"male",40,"White","9 - 11th Grade","Widowed",248.74,"Good",33,2,0,114,116,0
+"309",64427,"male",37,"White","College Grad","Married",548.36,"Vgood",36.5,4,0,114,110,1
+"310",64446,"male",47,"White","High School","Married",379.59,"Vgood",26.3,4,0,126,120,1
+"311",64447,"female",41,"White","High School","NeverMarried",51.15,"Fair",24.7,7,0,114,112,1
+"312",64451,"male",32,"White","Some College","LivePartner",235.83,"Good",27.7,2,0,122,112,1
+"313",64461,"female",34,"White","Some College","NeverMarried",19.5,"Poor",36.2,4,0,112,112,0
+"314",64463,"female",80,"White","9 - 11th Grade","Widowed",19.21,"Good",23.9,2,0,122,122,0
+"315",64465,"female",32,"Hispanic","Some College","LivePartner",26.55,"Good",23.4,7,0,110,108,1
+"316",64469,"male",47,"Black","College Grad","NeverMarried",459,"Vgood",26.5,3,0,116,116,1
+"317",64472,"female",50,"White","Some College","Married",13.77,"Poor",40.1,3,1,106,116,0
+"318",64491,"male",29,"White","Some College","LivePartner",209.27,"Vgood",25.1,7,0,110,110,1
+"319",64491,"male",29,"White","Some College","LivePartner",209.27,"Vgood",25.1,6,0,110,110,1
+"320",64497,"male",60,"White","8th Grade","NeverMarried",285.61,"Fair",32.7,5,1,146,144,0
+"321",64497,"male",60,"White","8th Grade","NeverMarried",285.61,"Fair",32.7,1,1,146,144,0
+"322",64526,"female",49,"White","College Grad","LivePartner",10.01,"Good",39.5,5,0,134,136,1
+"323",64530,"male",53,"White","9 - 11th Grade","Married",174.1,"Good",41,5,0,134,132,1
+"324",64530,"male",53,"White","9 - 11th Grade","Married",174.1,"Good",41,4,0,134,132,1
+"325",64530,"male",53,"White","9 - 11th Grade","Married",174.1,"Good",41,3,0,134,132,1
+"326",64536,"female",75,"White","9 - 11th Grade","Married",22.29,"Good",28.1,5,0,144,140,0
+"327",64536,"female",75,"White","9 - 11th Grade","Married",22.29,"Good",28.1,2,0,144,140,0
+"328",64550,"female",62,"Other","College Grad","Married",11.94,"Fair",20.9,2,1,128,130,1
+"329",64559,"female",70,"White","High School","Married",15.37,"Fair",39.4,4,1,128,128,0
+"330",64559,"female",70,"White","High School","Married",15.37,"Fair",39.4,5,1,128,128,0
+"331",64559,"female",70,"White","High School","Married",15.37,"Fair",39.4,5,1,128,128,0
+"332",64571,"male",26,"White","High School","Married",276.63,"Excellent",31.9,5,0,130,128,1
+"333",64582,"male",59,"Other","Some College","Married",455,"Good",23.5,4,1,180,170,1
+"334",64582,"male",59,"Other","Some College","Married",455,"Good",23.5,1,1,180,170,1
+"335",64592,"female",29,"Mexican","High School","LivePartner",14.43,"Fair",32.6,7,0,100,94,1
+"336",64598,"female",60,"White","Some College","Married",13.71,"Excellent",29.8,3,0,134,140,1
+"337",64598,"female",60,"White","Some College","Married",13.71,"Excellent",29.8,5,0,134,140,1
+"338",64599,"male",35,"Black","Some College","LivePartner",152.77,"Vgood",28.5,3,0,158,160,1
+"339",64611,"male",50,"Black","College Grad","Married",180,"Good",45.8,4,1,104,108,1
+"340",64611,"male",50,"Black","College Grad","Married",180,"Good",45.8,5,1,104,108,1
+"341",64616,"male",21,"Hispanic","Some College","NeverMarried",363,"Vgood",28.3,3,0,112,112,1
+"342",64620,"male",36,"Other","College Grad","Married",391.16,"Good",19.9,6,0,114,118,0
+"343",64632,"male",21,"Hispanic","High School","NeverMarried",336.19,"Vgood",30.6,3,0,134,134,1
+"344",64637,"male",77,"Hispanic","9 - 11th Grade","Married",131.31,"Fair",35.5,4,1,104,102,0
+"345",64654,"male",44,"White","High School","Married",484.92,"Good",31.6,4,0,116,116,1
+"346",64654,"male",44,"White","High School","Married",484.92,"Good",31.6,1,0,116,116,1
+"347",64661,"male",29,"Hispanic","High School","NeverMarried",959.35,"Vgood",23.6,2,0,110,104,1
+"348",64675,"male",46,"White","College Grad","Married",778.25,"Vgood",22.6,5,0,108,118,1
+"349",64675,"male",46,"White","College Grad","Married",778.25,"Vgood",22.6,6,0,108,118,1
+"350",64675,"male",46,"White","College Grad","Married",778.25,"Vgood",22.6,3,0,108,118,1
+"351",64675,"male",46,"White","College Grad","Married",778.25,"Vgood",22.6,6,0,108,118,1
+"352",64682,"male",42,"White","High School","Married",357.58,"Vgood",32.5,5,0,130,126,1
+"353",64682,"male",42,"White","High School","Married",357.58,"Vgood",32.5,5,0,130,126,1
+"354",64704,"male",62,"Mexican","8th Grade","Married",396.92,"Fair",28.3,5,0,122,114,0
+"355",64725,"female",39,"White","College Grad","LivePartner",18.26,"Vgood",34.3,4,0,124,128,1
+"356",64726,"male",55,"Black","9 - 11th Grade","Married",393.27,"Fair",26,4,0,120,120,1
+"357",64733,"female",30,"Hispanic","College Grad","Married",56.41,"Good",28.8,4,0,96,94,1
+"358",64733,"female",30,"Hispanic","College Grad","Married",56.41,"Good",28.8,4,0,96,94,1
+"359",64759,"male",80,"White","8th Grade","Married",319.45,"Vgood",24.8,3,0,158,150,0
+"360",64759,"male",80,"White","8th Grade","Married",319.45,"Vgood",24.8,3,0,158,150,0
+"361",64792,"female",40,"Mexican","Some College","Married",20.46,"Vgood",24.4,4,0,122,124,1
+"362",64806,"male",80,"White","Some College","Married",169,"Good",29.3,6,0,156,156,0
+"363",64825,"female",52,"White","Some College","Married",19.5,"Good",25.5,1,0,136,138,0
+"364",64825,"female",52,"White","Some College","Married",19.5,"Good",25.5,4,0,136,138,0
+"365",64828,"female",58,"Mexican","8th Grade","Married",53.4,"Fair",26.5,7,0,134,132,0
+"366",64839,"male",37,"Mexican","College Grad","Married",225,"Vgood",32,3,0,126,128,1
+"367",64857,"female",54,"White","College Grad","Divorced",15.22,"Good",47.7,5,1,128,126,1
+"368",64857,"female",54,"White","College Grad","Divorced",15.22,"Good",47.7,7,1,128,126,1
+"369",64858,"female",65,"White","9 - 11th Grade","Divorced",17.1,"Fair",22.8,5,1,174,170,0
+"370",64859,"female",46,"White","High School","Married",29.64,"Good",26.5,3,0,112,106,1
+"371",64859,"female",46,"White","High School","Married",29.64,"Good",26.5,3,0,112,106,1
+"372",64860,"male",50,"White","9 - 11th Grade","Married",354.27,"Good",23.9,3,0,106,114,1
+"373",64871,"female",49,"White","College Grad","Married",15.96,"Vgood",23.1,7,0,92,88,1
+"374",64871,"female",49,"White","College Grad","Married",15.96,"Vgood",23.1,3,0,92,88,1
+"375",64873,"female",41,"White","Some College","Married",14.28,"Excellent",23.5,7,0,104,96,1
+"376",64880,"male",60,"White","High School","Married",318.63,"Vgood",21.8,1,0,154,144,1
+"377",64882,"male",65,"White","College Grad","Married",614,"Excellent",27.6,6,0,132,130,1
+"378",64882,"male",65,"White","College Grad","Married",614,"Excellent",27.6,2,0,132,130,1
+"379",64893,"female",23,"White","Some College","NeverMarried",13.52,"Excellent",18.9,2,0,102,96,1
+"380",64893,"female",23,"White","Some College","NeverMarried",13.52,"Excellent",18.9,7,0,102,96,1
+"381",64937,"female",80,"White","9 - 11th Grade","Married",3.22,"Good",19.4,7,0,126,132,0
+"382",64938,"male",40,"Black","College Grad","NeverMarried",556.71,"Vgood",23.3,7,0,128,124,1
+"383",64953,"female",44,"White","Some College","Married",28.75,"Good",19.1,6,0,110,120,0
+"384",64965,"male",26,"White","Some College","Married",368,"Good",32.3,1,0,104,104,1
+"385",64994,"male",27,"White","College Grad","Married",623.33,"Vgood",23.9,5,0,118,114,1
+"386",64998,"male",54,"White","College Grad","NeverMarried",469.54,"Vgood",33.1,5,0,132,130,1
+"387",64998,"male",54,"White","College Grad","NeverMarried",469.54,"Vgood",33.1,3,0,132,130,1
+"388",65040,"female",58,"Black","High School","NeverMarried",10.53,"Vgood",25.1,7,0,144,140,0
+"389",65049,"male",24,"Hispanic","High School","Married",284.82,"Good",23.7,2,0,102,108,1
+"390",65061,"male",38,"Other","College Grad","Married",416.59,"Vgood",29.7,7,1,124,130,1
+"391",65067,"female",42,"White","Some College","Married",13.01,"Good",21,4,0,112,114,0
+"392",65072,"female",27,"Hispanic","College Grad","NeverMarried",46.18,"Excellent",27.4,4,0,106,112,1
+"393",65072,"female",27,"Hispanic","College Grad","NeverMarried",46.18,"Excellent",27.4,6,0,106,112,1
+"394",65075,"female",45,"White","College Grad","Married",14.41,"Fair",28.6,6,0,110,118,1
+"395",65075,"female",45,"White","College Grad","Married",14.41,"Fair",28.6,3,0,110,118,1
+"396",65088,"female",37,"White","Some College","NeverMarried",43.38,"Good",29.9,2,0,128,132,1
+"397",65122,"female",24,"White","Some College","NeverMarried",40.31,"Vgood",39.4,3,0,128,128,1
+"398",65122,"female",24,"White","Some College","NeverMarried",40.31,"Vgood",39.4,2,0,128,128,1
+"399",65126,"female",63,"Black","College Grad","Married",15.18,"Good",26.3,2,1,124,120,1
+"400",65133,"female",47,"White","College Grad","Married",7.21,"Good",29.8,4,0,116,122,0
+"401",65145,"female",57,"Mexican","High School","Married",16.16,"Vgood",21.9,2,0,126,122,0
+"402",65151,"female",26,"Mexican","High School","Married",20.7,"Good",36.5,3,0,114,110,0
+"403",65151,"female",26,"Mexican","High School","Married",20.7,"Good",36.5,2,0,114,110,0
+"404",65157,"female",80,"White","Some College","Divorced",42.88,"Excellent",32.7,5,0,156,158,0
+"405",65157,"female",80,"White","Some College","Divorced",42.88,"Excellent",32.7,1,0,156,158,0
+"406",65164,"male",42,"Black","9 - 11th Grade","LivePartner",311.58,"Fair",42.5,7,1,116,108,0
+"407",65174,"female",31,"White","Some College","Married",23.02,"Vgood",29.7,2,0,98,102,1
+"408",65174,"female",31,"White","Some College","Married",23.02,"Vgood",29.7,2,0,98,102,1
+"409",65174,"female",31,"White","Some College","Married",23.02,"Vgood",29.7,5,0,98,102,1
+"410",65177,"male",22,"White","Some College","NeverMarried",676.01,"Excellent",22.8,3,0,132,134,1
+"411",65194,"male",31,"Other","College Grad","NeverMarried",808.01,"Good",22.5,7,0,100,98,1
+"412",65217,"female",22,"Hispanic","Some College","NeverMarried",26.79,"Good",18.8,3,0,104,106,1
+"413",65229,"male",31,"White","College Grad","NeverMarried",590.63,"Excellent",24.8,5,0,118,124,1
+"414",65236,"female",73,"Black","9 - 11th Grade","Divorced",7.93,"Poor",27,1,0,160,178,0
+"415",65237,"female",25,"White","College Grad","LivePartner",60.24,"Vgood",27.2,1,0,118,114,1
+"416",65268,"female",20,"Other","Some College","NeverMarried",17.97,"Good",19.7,4,0,92,94,0
+"417",65270,"male",24,"White","Some College","Married",385.41,"Good",30.4,2,0,132,132,0
+"418",65299,"male",29,"White","Some College","LivePartner",491.47,"Excellent",22.7,3,0,122,118,1
+"419",65308,"female",54,"Mexican","8th Grade","LivePartner",11.1,"Fair",26.6,2,0,132,130,1
+"420",65310,"male",40,"White","9 - 11th Grade","Divorced",197.05,"Fair",45.2,6,0,120,118,1
+"421",65310,"male",40,"White","9 - 11th Grade","Divorced",197.05,"Fair",45.2,3,0,120,118,1
+"422",65318,"female",80,"White","Some College","Widowed",13.48,"Vgood",25.3,5,1,140,140,0
+"423",65318,"female",80,"White","Some College","Widowed",13.48,"Vgood",25.3,4,1,140,140,0
+"424",65325,"female",73,"White","Some College","Widowed",13.5,"Good",20.6,4,0,110,106,0
+"425",65325,"female",73,"White","Some College","Widowed",13.5,"Good",20.6,4,0,110,106,0
+"426",65336,"female",20,"White","Some College","NeverMarried",10.43,"Good",17.5,2,0,104,108,0
+"427",65348,"female",45,"White","College Grad","Married",19.2,"Good",29.5,5,0,134,138,1
+"428",65348,"female",45,"White","College Grad","Married",19.2,"Good",29.5,5,0,134,138,1
+"429",65358,"female",45,"Other","Some College","Married",24.98,"Vgood",28.2,5,0,102,106,1
+"430",65368,"male",23,"White","High School","Married",536,"Vgood",16.7,2,0,122,130,1
+"431",65373,"female",45,"White","College Grad","Married",12.25,"Good",26.1,1,0,100,96,1
+"432",65375,"female",52,"White","High School","Married",25.7,"Vgood",27.4,2,0,116,120,0
+"433",65375,"female",52,"White","High School","Married",25.7,"Vgood",27.4,5,0,116,120,0
+"434",65375,"female",52,"White","High School","Married",25.7,"Vgood",27.4,5,0,116,120,0
+"435",65399,"male",59,"Black","Some College","Married",330.04,"Excellent",24.8,6,0,126,124,1
+"436",65402,"male",33,"White","9 - 11th Grade","NeverMarried",51.41,"Good",21.1,2,0,110,114,0
+"437",65404,"female",27,"Other","College Grad","NeverMarried",39.41,"Good",18.7,7,0,94,104,0
+"438",65407,"male",46,"Black","High School","Married",632,"Vgood",24.5,1,0,142,138,1
+"439",65440,"male",61,"Black","High School","Married",722,"Fair",22.8,7,0,150,146,0
+"440",65461,"male",50,"Black","High School","Married",156,"Fair",29.2,2,0,120,114,0
+"441",65462,"female",49,"White","College Grad","Divorced",17.09,"Good",22.6,5,0,112,116,1
+"442",65462,"female",49,"White","College Grad","Divorced",17.09,"Good",22.6,5,0,112,116,1
+"443",65469,"male",58,"White","Some College","Divorced",206.61,"Fair",44.2,2,0,128,134,0
+"444",65476,"female",32,"Black","Some College","NeverMarried",29.41,"Poor",53.1,3,0,128,124,0
+"445",65503,"female",44,"Mexican","9 - 11th Grade","Married",40.1,"Good",42.8,7,0,128,126,0
+"446",65510,"female",65,"White","9 - 11th Grade","Married",0.25,"Good",20.5,1,0,128,118,0
+"447",65512,"female",39,"Mexican","High School","Married",56.73,"Fair",26.7,4,0,148,150,1
+"448",65514,"female",80,"White","College Grad","Married",7.67,"Vgood",18.5,4,0,154,160,0
+"449",65517,"female",25,"Mexican","Some College","Married",26.17,"Fair",26.4,1,0,118,116,1
+"450",65520,"female",36,"Black","College Grad","Married",19.74,"Good",39.2,1,0,122,128,1
+"451",65543,"male",23,"White","College Grad","NeverMarried",463.17,"Vgood",24.8,7,0,112,116,1
+"452",65565,"male",27,"White","High School","LivePartner",500.48,"Vgood",29,7,0,122,124,1
+"453",65565,"male",27,"White","High School","LivePartner",500.48,"Vgood",29,3,0,122,124,1
+"454",65565,"male",27,"White","High School","LivePartner",500.48,"Vgood",29,4,0,122,124,1
+"455",65625,"male",23,"Other","College Grad","NeverMarried",325.7,"Vgood",38.4,1,1,114,112,1
+"456",65625,"male",23,"Other","College Grad","NeverMarried",325.7,"Vgood",38.4,2,1,114,112,1
+"457",65632,"female",42,"Hispanic","College Grad","Divorced",19.24,"Excellent",28.7,5,0,106,110,1
+"458",65633,"male",57,"White","Some College","NeverMarried",380.84,"Vgood",26.8,1,1,138,136,1
+"459",65641,"female",33,"White","High School","Divorced",34.52,"Good",34.5,5,0,112,108,1
+"460",65642,"female",41,"White","College Grad","Married",23.02,"Good",34.6,7,0,118,118,1
+"461",65642,"female",41,"White","College Grad","Married",23.02,"Good",34.6,5,0,118,118,1
+"462",65642,"female",41,"White","College Grad","Married",23.02,"Good",34.6,5,0,118,118,1
+"463",65643,"female",38,"White","College Grad","Married",83.02,"Vgood",29.1,3,0,100,98,1
+"464",65645,"male",80,"White","College Grad","Married",269.56,"Excellent",24.1,2,0,136,128,1
+"465",65649,"female",37,"Black","College Grad","NeverMarried",24.04,"Vgood",25.9,3,0,120,118,0
+"466",65676,"female",35,"White","9 - 11th Grade","Married",12.7,"Vgood",22.6,7,0,110,116,1
+"467",65682,"female",57,"White","College Grad","Divorced",10.69,"Vgood",27.1,3,0,110,108,1
+"468",65688,"female",54,"White","Some College","Married",8.89,"Vgood",25,4,0,124,118,1
+"469",65699,"male",50,"White","High School","Divorced",119.71,"Good",31,2,0,100,104,1
+"470",65699,"male",50,"White","High School","Divorced",119.71,"Good",31,5,0,100,104,1
+"471",65708,"female",80,"White","9 - 11th Grade","Widowed",106.9,"Excellent",26.9,1,0,104,110,0
+"472",65722,"female",39,"Mexican","9 - 11th Grade","LivePartner",42.49,"Good",24.5,5,0,106,106,0
+"473",65739,"male",71,"White","Some College","Married",501,"Fair",23.6,3,0,126,128,0
+"474",65739,"male",71,"White","Some College","Married",501,"Fair",23.6,3,0,126,128,0
+"475",65741,"male",26,"Mexican","8th Grade","LivePartner",347,"Good",31.3,4,0,136,136,0
+"476",65754,"female",50,"Mexican","8th Grade","NeverMarried",13.21,"Poor",43.7,7,1,140,140,0
+"477",65760,"male",41,"Mexican","College Grad","Married",618,"Good",28.9,7,0,112,112,1
+"478",65764,"female",73,"White","High School","Married",7.84,"Fair",35.8,2,0,144,148,0
+"479",65770,"male",40,"Mexican","9 - 11th Grade","LivePartner",320,"Fair",25.9,5,0,118,110,0
+"480",65773,"male",34,"Black","College Grad","Married",194.07,"Vgood",49.7,3,0,138,140,1
+"481",65787,"male",39,"White","Some College","Divorced",508.83,"Good",28.4,7,0,106,112,1
+"482",65791,"male",24,"Other","Some College","NeverMarried",277.53,"Good",34.1,7,0,122,124,1
+"483",65800,"female",61,"White","College Grad","Married",22.73,"Good",31,3,0,146,142,0
+"484",65804,"male",59,"White","Some College","Married",391.7,"Good",31.6,5,0,140,138,0
+"485",65804,"male",59,"White","Some College","Married",391.7,"Good",31.6,2,0,140,138,0
+"486",65804,"male",59,"White","Some College","Married",391.7,"Good",31.6,3,0,140,138,0
+"487",65808,"male",65,"Black","High School","Married",440,"Good",26.2,4,0,126,126,1
+"488",65812,"male",30,"Other","College Grad","Married",651.48,"Good",21.9,3,0,120,122,0
+"489",65812,"male",30,"Other","College Grad","Married",651.48,"Good",21.9,2,0,120,122,0
+"490",65823,"male",37,"Mexican","9 - 11th Grade","Separated",608.95,"Fair",29.5,3,0,132,132,1
+"491",65824,"male",57,"White","College Grad","NeverMarried",231.5,"Excellent",30.5,1,0,138,148,1
+"492",65850,"male",58,"Mexican","High School","Married",688,"Poor",25.6,3,1,122,126,0
+"493",65850,"male",58,"Mexican","High School","Married",688,"Poor",25.6,2,1,122,126,0
+"494",65851,"female",20,"Mexican","High School","NeverMarried",20.93,"Fair",42.1,5,0,114,118,0
+"495",65874,"female",43,"White","College Grad","Married",12.29,"Good",25.5,3,0,116,104,1
+"496",65874,"female",43,"White","College Grad","Married",12.29,"Good",25.5,3,0,116,104,1
+"497",65889,"male",30,"Hispanic","Some College","NeverMarried",420.74,"Good",33.9,3,0,140,140,1
+"498",65892,"female",80,"White","8th Grade","Widowed",9.9,"Fair",28.3,5,0,128,132,0
+"499",65896,"female",31,"White","High School","NeverMarried",27.02,"Fair",26.7,2,0,110,108,0
+"500",65927,"female",65,"White","Some College","Married",8.04,"Vgood",33.3,7,0,124,126,0
+"501",65927,"female",65,"White","Some College","Married",8.04,"Vgood",33.3,4,0,124,126,0
+"502",65927,"female",65,"White","Some College","Married",8.04,"Vgood",33.3,4,0,124,126,0
+"503",65971,"male",30,"White","College Grad","Married",303.63,"Vgood",24.7,7,0,118,122,1
+"504",65974,"female",63,"White","Some College","Married",28.86,"Excellent",25.8,5,1,160,144,1
+"505",65978,"male",57,"White","Some College","NeverMarried",545.84,"Good",34.4,3,0,122,134,1
+"506",65993,"female",65,"White","High School","Divorced",13.35,"Good",34.9,2,0,168,166,1
+"507",66013,"male",23,"Hispanic","9 - 11th Grade","Married",493.87,"Vgood",32.5,7,0,112,110,0
+"508",66026,"male",65,"White","College Grad","Divorced",490.06,"Vgood",36.3,1,0,122,134,1
+"509",66028,"female",30,"White","Some College","Married",21.29,"Vgood",34.6,3,0,116,122,0
+"510",66032,"male",36,"Hispanic","Some College","LivePartner",296.77,"Fair",29,1,0,108,104,1
+"511",66036,"female",70,"White","Some College","Married",25.54,"Vgood",22.6,2,0,104,114,0
+"512",66043,"female",64,"White","High School","Married",16.26,"Vgood",33.2,4,0,124,124,0
+"513",66053,"female",65,"White","Some College","Married",32.77,"Excellent",31.6,2,0,116,118,0
+"514",66053,"female",65,"White","Some College","Married",32.77,"Excellent",31.6,7,0,116,118,0
+"515",66079,"male",54,"Black","High School","NeverMarried",418.83,"Fair",33.8,5,0,124,124,1
+"516",66083,"male",21,"White","8th Grade","NeverMarried",176.34,"Good",22.3,7,0,112,106,1
+"517",66115,"female",59,"White","College Grad","Married",9.17,"Vgood",21.5,5,0,132,134,1
+"518",66136,"male",27,"White","Some College","Married",490.78,"Excellent",22.8,2,0,92,98,1
+"519",66136,"male",27,"White","Some College","Married",490.78,"Excellent",22.8,3,0,92,98,1
+"520",66142,"male",21,"Black","Some College","NeverMarried",289.01,"Fair",39,3,1,120,116,1
+"521",66152,"female",58,"Black","Some College","Widowed",22.98,"Fair",17.6,7,0,124,122,0
+"522",66165,"male",24,"White","High School","Married",229.07,"Good",37.9,7,0,118,116,1
+"523",66167,"female",23,"Other","College Grad","Married",22.34,"Vgood",25,1,0,122,128,1
+"524",66169,"male",63,"White","College Grad","Married",6.06,"Good",27.7,4,0,110,118,1
+"525",66189,"male",47,"Mexican","9 - 11th Grade","Married",270.4,"Vgood",24.6,4,0,98,102,1
+"526",66191,"female",56,"Black","9 - 11th Grade","Married",17.76,"Fair",28.2,3,0,116,116,0
+"527",66194,"female",63,"White","College Grad","Married",36.63,"Vgood",27.4,4,0,110,104,1
+"528",66199,"female",58,"Hispanic","9 - 11th Grade","Married",21.14,"Good",29.7,7,0,128,126,0
+"529",66201,"male",45,"White","Some College","Married",271.55,"Good",29.1,3,1,126,120,1
+"530",66205,"female",28,"White","College Grad","Divorced",25.78,"Vgood",40.5,7,0,114,120,1
+"531",66205,"female",28,"White","College Grad","Divorced",25.78,"Vgood",40.5,6,0,114,120,1
+"532",66208,"male",53,"White","9 - 11th Grade","Married",407.61,"Good",27.3,5,0,146,140,1
+"533",66228,"male",28,"White","College Grad","NeverMarried",442.74,"Vgood",22.2,3,0,132,128,1
+"534",66234,"male",26,"White","College Grad","Married",534.44,"Excellent",31.1,4,0,128,124,1
+"535",66239,"male",80,"Other","College Grad","Widowed",888.24,"Vgood",22.3,3,0,138,136,0
+"536",66243,"female",39,"Black","Some College","LivePartner",12.4,"Good",28.9,4,0,108,114,1
+"537",66246,"male",40,"White","9 - 11th Grade","NeverMarried",311.09,"Excellent",33.2,3,0,118,124,0
+"538",66246,"male",40,"White","9 - 11th Grade","NeverMarried",311.09,"Excellent",33.2,4,0,118,124,0
+"539",66253,"female",38,"White","Some College","Married",12.5,"Good",28.4,3,1,116,114,1
+"540",66261,"male",52,"White","High School","NeverMarried",497.12,"Good",28.3,3,0,166,168,1
+"541",66261,"male",52,"White","High School","NeverMarried",497.12,"Good",28.3,3,0,166,168,1
+"542",66266,"female",28,"Black","High School","Married",70.45,"Good",31.6,2,0,142,124,1
+"543",66266,"female",28,"Black","High School","Married",70.45,"Good",31.6,3,0,142,124,1
+"544",66268,"male",58,"White","Some College","Married",498.58,"Good",28.5,5,1,140,136,1
+"545",66283,"female",33,"Black","Some College","Married",57.5,"Good",40.2,5,0,110,106,1
+"546",66285,"male",51,"Other","College Grad","Married",351.56,"Good",26.6,7,0,120,120,1
+"547",66289,"male",41,"White","College Grad","NeverMarried",289.98,"Good",34.5,2,0,104,92,1
+"548",66293,"male",33,"White","High School","NeverMarried",933.59,"Vgood",21.6,7,1,124,120,1
+"549",66300,"female",35,"White","High School","LivePartner",16.12,"Good",35.4,5,0,126,116,1
+"550",66304,"male",30,"White","College Grad","LivePartner",267.95,"Vgood",29.6,5,0,124,122,1
+"551",66304,"male",30,"White","College Grad","LivePartner",267.95,"Vgood",29.6,7,0,124,122,1
+"552",66307,"male",44,"Black","High School","Married",572,"Good",26.4,5,0,114,116,1
+"553",66317,"male",43,"White","College Grad","Married",431.54,"Good",26.3,2,0,96,106,1
+"554",66327,"male",60,"Hispanic","College Grad","Married",228.83,"Vgood",35,3,0,134,136,1
+"555",66341,"male",51,"White","College Grad","Married",692.44,"Fair",28,4,0,124,122,1
+"556",66341,"male",51,"White","College Grad","Married",692.44,"Fair",28,5,0,124,122,1
+"557",66341,"male",51,"White","College Grad","Married",692.44,"Fair",28,2,0,124,122,1
+"558",66347,"male",80,"White","8th Grade","Married",430.75,"Good",24.4,3,0,178,178,0
+"559",66358,"male",64,"White","Some College","Married",532.54,"Good",29.3,7,0,126,126,0
+"560",66362,"female",55,"White","Some College","Separated",18.17,"Vgood",24.5,5,0,120,122,1
+"561",66375,"male",31,"White","High School","Married",315.9,"Good",23.1,1,0,128,134,1
+"562",66389,"male",55,"White","College Grad","Married",405.56,"Fair",30.5,1,0,110,112,1
+"563",66402,"male",60,"Other","Some College","LivePartner",371.37,"Good",26.2,2,0,106,98,1
+"564",66416,"female",63,"White","High School","Married",15.04,"Good",20.6,7,0,118,118,0
+"565",66431,"female",23,"White","Some College","LivePartner",37.97,"Good",24,1,0,110,114,1
+"566",66439,"female",48,"Mexican","High School","NeverMarried",20,"Good",35.5,3,0,130,122,1
+"567",66439,"female",48,"Mexican","High School","NeverMarried",20,"Good",35.5,6,0,130,122,1
+"568",66439,"female",48,"Mexican","High School","NeverMarried",20,"Good",35.5,2,0,130,122,1
+"569",66439,"female",48,"Mexican","High School","NeverMarried",20,"Good",35.5,2,0,130,122,1
+"570",66442,"male",48,"White","College Grad","Married",202.63,"Good",22.9,1,0,122,122,1
+"571",66443,"female",38,"Mexican","8th Grade","NeverMarried",17.58,"Fair",34.9,2,0,164,160,1
+"572",66472,"male",61,"White","Some College","Married",221.12,"Good",41.3,3,1,144,138,1
+"573",66472,"male",61,"White","Some College","Married",221.12,"Good",41.3,6,1,144,138,1
+"574",66472,"male",61,"White","Some College","Married",221.12,"Good",41.3,5,1,144,138,1
+"575",66473,"male",56,"White","College Grad","NeverMarried",358.53,"Vgood",23.2,7,0,140,132,1
+"576",66473,"male",56,"White","College Grad","NeverMarried",358.53,"Vgood",23.2,2,0,140,132,1
+"577",66473,"male",56,"White","College Grad","NeverMarried",358.53,"Vgood",23.2,1,0,140,132,1
+"578",66474,"female",43,"White","9 - 11th Grade","Married",13.16,"Good",32.5,1,0,120,132,1
+"579",66485,"female",33,"Black","College Grad","NeverMarried",29.77,"Fair",42.5,2,0,104,106,1
+"580",66504,"male",70,"White","Some College","Divorced",300.62,"Good",36.1,2,1,142,146,0
+"581",66509,"female",70,"White","Some College","Widowed",24.55,"Good",33.8,4,0,134,132,0
+"582",66522,"female",46,"White","College Grad","Married",20.53,"Vgood",27,7,0,118,106,1
+"583",66522,"female",46,"White","College Grad","Married",20.53,"Vgood",27,5,0,118,106,1
+"584",66525,"male",47,"White","High School","Divorced",416.4,"Vgood",28.8,2,0,144,140,1
+"585",66525,"male",47,"White","High School","Divorced",416.4,"Vgood",28.8,2,0,144,140,1
+"586",66538,"male",69,"White","Some College","Married",278,"Good",25.2,5,0,108,100,0
+"587",66547,"male",65,"White","College Grad","Married",233.65,"Excellent",28,3,0,136,118,1
+"588",66547,"male",65,"White","College Grad","Married",233.65,"Excellent",28,7,0,136,118,1
+"589",66547,"male",65,"White","College Grad","Married",233.65,"Excellent",28,5,0,136,118,1
+"590",66547,"male",65,"White","College Grad","Married",233.65,"Excellent",28,7,0,136,118,1
+"591",66547,"male",65,"White","College Grad","Married",233.65,"Excellent",28,5,0,136,118,1
+"592",66552,"male",45,"Hispanic","Some College","Married",408.18,"Good",26.5,5,0,130,128,1
+"593",66554,"male",60,"White","High School","Married",172.33,"Vgood",28.5,7,0,132,132,1
+"594",66556,"male",60,"White","College Grad","Married",241.92,"Good",31.2,5,0,160,156,0
+"595",66558,"female",54,"White","High School","Married",17.33,"Vgood",22.5,6,0,124,128,1
+"596",66558,"female",54,"White","High School","Married",17.33,"Vgood",22.5,2,0,124,128,1
+"597",66562,"female",26,"White","College Grad","Married",16.89,"Vgood",26.4,3,0,102,102,1
+"598",66562,"female",26,"White","College Grad","Married",16.89,"Vgood",26.4,1,0,102,102,1
+"599",66564,"female",47,"White","High School","Married",8.61,"Good",33.5,6,1,126,130,1
+"600",66564,"female",47,"White","High School","Married",8.61,"Good",33.5,6,1,126,130,1
+"601",66565,"female",66,"White","Some College","Divorced",7.46,"Vgood",29.2,3,0,138,134,1
+"602",66568,"female",52,"White","College Grad","Divorced",29.26,"Vgood",24.7,5,0,118,110,1
+"603",66568,"female",52,"White","College Grad","Divorced",29.26,"Vgood",24.7,3,0,118,110,1
+"604",66568,"female",52,"White","College Grad","Divorced",29.26,"Vgood",24.7,5,0,118,110,1
+"605",66584,"male",44,"White","High School","NeverMarried",686.8,"Vgood",23,2,0,108,114,0
+"606",66587,"male",47,"Hispanic","Some College","Married",369.51,"Fair",24.8,7,0,128,122,1
+"607",66591,"male",34,"White","College Grad","Married",377.26,"Good",35,3,0,124,122,1
+"608",66591,"male",34,"White","College Grad","Married",377.26,"Good",35,3,0,124,122,1
+"609",66614,"female",44,"White","High School","Married",27.95,"Vgood",25.8,2,0,112,114,1
+"610",66614,"female",44,"White","High School","Married",27.95,"Vgood",25.8,5,0,112,114,1
+"611",66619,"female",72,"White","High School","Married",12.21,"Excellent",28.2,5,0,154,152,0
+"612",66628,"female",41,"White","Some College","Married",18.27,"Good",34.2,2,1,120,120,1
+"613",66685,"male",29,"Mexican","9 - 11th Grade","LivePartner",294.87,"Fair",32.4,2,0,104,100,1
+"614",66685,"male",29,"Mexican","9 - 11th Grade","LivePartner",294.87,"Fair",32.4,2,0,104,100,1
+"615",66698,"male",21,"White","Some College","NeverMarried",421.97,"Vgood",25.2,1,0,114,100,1
+"616",66720,"male",58,"Black","High School","Married",415.71,"Excellent",29.1,3,0,130,128,1
+"617",66725,"male",57,"White","Some College","Married",541.98,"Vgood",27.9,3,0,118,118,1
+"618",66729,"female",64,"White","College Grad","Married",18.99,"Excellent",22.1,1,0,138,150,0
+"619",66729,"female",64,"White","College Grad","Married",18.99,"Excellent",22.1,2,0,138,150,0
+"620",66747,"male",59,"White","High School","NeverMarried",236.51,"Fair",44.3,5,0,116,122,1
+"621",66759,"female",57,"Black","College Grad","Divorced",9.54,"Fair",40.2,2,1,142,142,1
+"622",66766,"male",39,"White","9 - 11th Grade","Married",516.46,"Vgood",18.8,1,1,112,114,1
+"623",66777,"male",39,"Hispanic","8th Grade","Married",117.31,"Good",42.4,1,1,140,132,0
+"624",66796,"male",70,"White","High School","Married",263.88,"Good",28.1,5,0,126,120,1
+"625",66821,"female",30,"Hispanic","High School","Married",33.9,"Fair",33.8,3,0,108,108,1
+"626",66828,"male",25,"White","High School","Married",647.03,"Vgood",25.3,4,0,108,112,1
+"627",66828,"male",25,"White","High School","Married",647.03,"Vgood",25.3,2,0,108,112,1
+"628",66828,"male",25,"White","High School","Married",647.03,"Vgood",25.3,2,0,108,112,1
+"629",66833,"female",39,"Hispanic","High School","Married",44.05,"Good",22.7,1,0,122,122,1
+"630",66848,"female",52,"White","College Grad","Married",20.89,"Vgood",21.6,5,0,102,96,1
+"631",66848,"female",52,"White","College Grad","Married",20.89,"Vgood",21.6,3,0,102,96,1
+"632",66851,"female",46,"White","Some College","Widowed",15.77,"Good",28.7,2,0,122,128,1
+"633",66873,"female",54,"White","Some College","Married",40.73,"Good",59.2,5,0,212,198,1
+"634",66873,"female",54,"White","Some College","Married",40.73,"Good",59.2,5,0,212,198,1
+"635",66874,"female",31,"White","Some College","Married",19.9,"Good",27.2,3,0,92,94,0
+"636",66875,"female",69,"Other","Some College","Married",9.69,"Poor",24.1,7,0,134,142,0
+"637",66877,"female",80,"White","High School","Married",7.69,"Fair",23.5,6,0,138,130,0
+"638",66882,"female",22,"Mexican","Some College","NeverMarried",39.24,"Excellent",18.8,2,0,112,108,0
+"639",66882,"female",22,"Mexican","Some College","NeverMarried",39.24,"Excellent",18.8,7,0,112,108,0
+"640",66893,"male",60,"White","High School","Married",253.03,"Good",54.1,4,1,136,140,1
+"641",66893,"male",60,"White","High School","Married",253.03,"Good",54.1,3,1,136,140,1
+"642",66898,"female",45,"Black","College Grad","NeverMarried",40.52,"Good",20.2,4,0,100,100,1
+"643",66915,"male",51,"White","9 - 11th Grade","Married",213.69,"Poor",32.2,4,0,130,138,0
+"644",66925,"female",23,"White","College Grad","NeverMarried",14.83,"Vgood",22,5,0,98,104,1
+"645",66933,"male",34,"Other","College Grad","Married",564.42,"Good",21.1,3,0,110,112,1
+"646",66938,"female",62,"Other","8th Grade","Married",22.1,"Good",27.2,5,0,124,116,0
+"647",66938,"female",62,"Other","8th Grade","Married",22.1,"Good",27.2,4,0,124,116,0
+"648",66944,"male",72,"White","College Grad","Married",331.92,"Vgood",29.3,5,1,148,154,0
+"649",66946,"male",32,"Other","Some College","Married",158.96,"Good",36,3,0,126,124,1
+"650",66947,"male",51,"Mexican","9 - 11th Grade","Married",328.42,"Vgood",26.1,1,0,106,114,1
+"651",66956,"female",21,"White","9 - 11th Grade","Married",7.24,"Fair",25.9,4,0,106,98,0
+"652",66956,"female",21,"White","9 - 11th Grade","Married",7.24,"Fair",25.9,4,0,106,98,0
+"653",66957,"male",62,"White","Some College","Married",377.79,"Vgood",33.7,4,0,146,140,0
+"654",66959,"female",43,"Mexican","8th Grade","NeverMarried",36.2,"Good",29.7,3,0,114,118,0
+"655",66964,"female",27,"White","College Grad","NeverMarried",37.93,"Excellent",24.5,3,0,114,110,1
+"656",66964,"female",27,"White","College Grad","NeverMarried",37.93,"Excellent",24.5,4,0,114,110,1
+"657",66973,"female",49,"White","Some College","Married",13.09,"Vgood",32.8,6,0,90,96,0
+"658",66996,"male",22,"Black","High School","NeverMarried",667.47,"Good",23.7,4,0,98,108,1
+"659",67055,"female",71,"White","9 - 11th Grade","Married",18.35,"Fair",24.3,7,0,158,150,0
+"660",67056,"male",54,"Other","9 - 11th Grade","Married",255.77,"Good",30.2,2,0,136,138,1
+"661",67064,"male",31,"White","College Grad","Married",445.49,"Good",26.6,3,0,118,108,1
+"662",67083,"male",26,"White","9 - 11th Grade","NeverMarried",318.72,"Vgood",31.7,2,0,122,122,0
+"663",67083,"male",26,"White","9 - 11th Grade","NeverMarried",318.72,"Vgood",31.7,3,0,122,122,0
+"664",67083,"male",26,"White","9 - 11th Grade","NeverMarried",318.72,"Vgood",31.7,5,0,122,122,0
+"665",67088,"female",80,"White","9 - 11th Grade","Widowed",20.9,"Vgood",26,2,0,164,152,0
+"666",67092,"male",76,"White","College Grad","LivePartner",547.81,"Vgood",27.9,1,0,140,144,0
+"667",67115,"male",59,"Hispanic","College Grad","Separated",291.39,"Good",33.1,2,1,116,130,1
+"668",67117,"female",25,"White","Some College","LivePartner",11.36,"Vgood",21.5,5,0,102,100,0
+"669",67118,"female",33,"White","Some College","Divorced",31.96,"Good",31.1,5,0,114,114,1
+"670",67118,"female",33,"White","Some College","Divorced",31.96,"Good",31.1,3,0,114,114,1
+"671",67118,"female",33,"White","Some College","Divorced",31.96,"Good",31.1,4,0,114,114,1
+"672",67118,"female",33,"White","Some College","Divorced",31.96,"Good",31.1,1,0,114,114,1
+"673",67119,"female",46,"White","College Grad","LivePartner",16.9,"Good",32.7,4,0,124,122,0
+"674",67119,"female",46,"White","College Grad","LivePartner",16.9,"Good",32.7,6,0,124,122,0
+"675",67121,"male",39,"Other","Some College","Married",278.15,"Vgood",28.5,5,0,114,110,1
+"676",67129,"female",24,"Black","Some College","NeverMarried",28.41,"Good",23.6,2,0,106,106,1
+"677",67133,"male",33,"Mexican","9 - 11th Grade","Married",432.87,"Fair",26.9,4,0,116,112,1
+"678",67141,"female",72,"White","Some College","Married",3.8,"Fair",16.6,7,0,138,146,0
+"679",67183,"female",52,"Black","College Grad","Married",15.91,"Vgood",25.7,7,0,100,98,1
+"680",67184,"male",42,"Mexican","Some College","LivePartner",463.53,"Vgood",32.5,6,0,142,142,1
+"681",67190,"female",36,"White","College Grad","Married",17.7,"Fair",27.3,6,0,128,130,1
+"682",67190,"female",36,"White","College Grad","Married",17.7,"Fair",27.3,3,0,128,130,1
+"683",67191,"female",33,"White","9 - 11th Grade","Married",43.16,"Vgood",28.2,3,0,110,108,0
+"684",67195,"male",49,"White","High School","Married",562.49,"Vgood",29.6,2,0,124,126,1
+"685",67200,"male",30,"White","College Grad","NeverMarried",824.96,"Excellent",26.7,4,0,118,112,1
+"686",67214,"male",39,"White","College Grad","NeverMarried",432.67,"Vgood",26.3,6,0,112,106,1
+"687",67219,"female",32,"White","College Grad","Married",12.04,"Good",20.3,1,0,100,96,0
+"688",67220,"male",33,"White","College Grad","NeverMarried",437.43,"Vgood",27.8,3,0,114,112,1
+"689",67221,"male",22,"Black","Some College","NeverMarried",294.82,"Excellent",34.3,7,0,142,132,1
+"690",67255,"female",38,"White","High School","Married",18.08,"Good",29.4,2,0,104,104,1
+"691",67259,"male",45,"White","College Grad","Married",331.09,"Excellent",34.3,3,0,124,116,1
+"692",67264,"female",77,"White","9 - 11th Grade","Widowed",19.39,"Vgood",24.2,3,0,122,126,0
+"693",67264,"female",77,"White","9 - 11th Grade","Widowed",19.39,"Vgood",24.2,6,0,122,126,0
+"694",67288,"male",24,"Other","College Grad","NeverMarried",189.53,"Good",26.3,4,0,116,118,1
+"695",67290,"male",25,"White","Some College","NeverMarried",260.32,"Good",34.4,7,0,126,126,0
+"696",67293,"male",53,"White","College Grad","Married",505.43,"Excellent",22.1,5,0,114,114,1
+"697",67297,"male",29,"White","High School","Divorced",230.75,"Fair",37.7,4,0,116,112,1
+"698",67305,"female",20,"Black","Some College","NeverMarried",34.44,"Excellent",29.7,3,0,108,110,0
+"699",67312,"male",45,"White","High School","Married",301.06,"Good",27.9,5,0,102,124,1
+"700",67312,"male",45,"White","High School","Married",301.06,"Good",27.9,7,0,102,124,1
+"701",67321,"male",53,"White","Some College","Married",923.44,"Fair",26.3,5,0,116,116,1
+"702",67326,"female",47,"Black","Some College","NeverMarried",24.08,"Fair",52.8,3,0,124,118,0
+"703",67327,"male",75,"White","High School","Married",297.97,"Good",27.4,3,0,124,124,0
+"704",67330,"male",46,"White","9 - 11th Grade","LivePartner",796,"Good",24,6,0,124,122,1
+"705",67330,"male",46,"White","9 - 11th Grade","LivePartner",796,"Good",24,5,0,124,122,1
+"706",67339,"male",70,"White","College Grad","Married",428,"Poor",25.9,7,1,116,120,0
+"707",67341,"male",74,"Mexican","8th Grade","Married",300.73,"Fair",25.3,3,0,120,118,0
+"708",67343,"male",58,"Black","Some College","Divorced",794.66,"Good",22.7,2,0,120,122,1
+"709",67347,"male",80,"White","8th Grade","Married",184.27,"Fair",33.4,5,0,134,128,0
+"710",67355,"female",22,"Mexican","Some College","LivePartner",9.61,"Good",27.4,2,0,124,118,0
+"711",67355,"female",22,"Mexican","Some College","LivePartner",9.61,"Good",27.4,2,0,124,118,0
+"712",67359,"male",74,"White","College Grad","Married",470.32,"Good",26.5,7,0,118,110,1
+"713",67363,"male",61,"Hispanic","8th Grade","Separated",207.3,"Excellent",34.3,5,0,104,98,1
+"714",67368,"female",23,"Hispanic","High School","NeverMarried",26.08,"Good",25.7,5,0,112,110,1
+"715",67385,"male",47,"Other","High School","NeverMarried",152.99,"Vgood",23.6,1,0,110,114,0
+"716",67390,"female",56,"White","College Grad","Divorced",34.13,"Fair",18.2,2,0,100,94,0
+"717",67392,"male",41,"Hispanic","College Grad","Married",426.2,"Good",31.2,7,0,124,124,0
+"718",67407,"male",64,"White","High School","Married",726.99,"Vgood",23.3,1,0,120,122,1
+"719",67407,"male",64,"White","High School","Married",726.99,"Vgood",23.3,2,0,120,122,1
+"720",67412,"male",77,"White","Some College","Married",223.54,"Poor",39.2,3,1,136,128,0
+"721",67413,"male",80,"White","High School","Married",598.32,"Poor",24.2,1,0,128,124,0
+"722",67417,"female",58,"Other","College Grad","Married",28.07,"Vgood",20.5,1,0,98,90,1
+"723",67424,"female",32,"Black","High School","NeverMarried",7.72,"Fair",54.4,7,0,128,128,0
+"724",67425,"male",37,"Mexican","9 - 11th Grade","Married",268,"Vgood",27.8,7,0,128,130,1
+"725",67445,"female",38,"Mexican","9 - 11th Grade","Married",25.8,"Excellent",24.7,2,0,104,104,1
+"726",67447,"female",57,"White","College Grad","NeverMarried",18.73,"Vgood",21.5,2,0,126,132,1
+"727",67450,"male",55,"White","Some College","NeverMarried",281.33,"Good",33.6,3,0,142,134,1
+"728",67455,"male",70,"White","High School","Married",433.75,"Vgood",27.6,1,0,120,120,0
+"729",67455,"male",70,"White","High School","Married",433.75,"Vgood",27.6,2,0,120,120,0
+"730",67470,"female",37,"Other","Some College","NeverMarried",27.11,"Excellent",40.5,3,0,134,132,1
+"731",67471,"female",45,"White","High School","Separated",9.31,"Vgood",23,4,0,126,126,1
+"732",67471,"female",45,"White","High School","Separated",9.31,"Vgood",23,3,0,126,126,1
+"733",67480,"female",62,"Black","Some College","Widowed",21.05,"Good",33.1,2,0,132,134,0
+"734",67487,"female",75,"Black","9 - 11th Grade","Widowed",28.78,"Poor",26.7,1,1,142,134,0
+"735",67499,"male",73,"Hispanic","Some College","Married",623.25,"Vgood",32.1,5,0,110,110,0
+"736",67501,"female",62,"Other","Some College","Married",6.57,"Good",31.8,2,1,112,114,1
+"737",67503,"female",45,"White","College Grad","NeverMarried",29.48,"Good",37.8,7,0,120,122,1
+"738",67503,"female",45,"White","College Grad","NeverMarried",29.48,"Good",37.8,4,0,120,122,1
+"739",67503,"female",45,"White","College Grad","NeverMarried",29.48,"Good",37.8,6,0,120,122,1
+"740",67505,"female",61,"White","College Grad","Married",8.1,"Excellent",25.6,7,0,138,138,0
+"741",67505,"female",61,"White","College Grad","Married",8.1,"Excellent",25.6,7,0,138,138,0
+"742",67513,"male",53,"Black","High School","Married",522.42,"Fair",23.1,7,0,130,140,0
+"743",67521,"female",76,"White","9 - 11th Grade","Divorced",16.21,"Good",43.4,7,0,130,134,0
+"744",67530,"male",52,"Mexican","College Grad","Separated",433.9,"Poor",30.2,5,0,142,136,1
+"745",67532,"female",71,"White","8th Grade","Married",16.97,"Good",21.4,5,0,120,124,0
+"746",67534,"female",56,"White","Some College","Widowed",4.75,"Good",25.9,5,0,120,118,1
+"747",67539,"female",27,"White","8th Grade","Married",9.02,"Good",39.2,2,0,124,120,0
+"748",67539,"female",27,"White","8th Grade","Married",9.02,"Good",39.2,4,0,124,120,0
+"749",67539,"female",27,"White","8th Grade","Married",9.02,"Good",39.2,5,0,124,120,0
+"750",67560,"male",68,"Other","8th Grade","NeverMarried",511.22,"Poor",20.6,1,0,140,146,1
+"751",67582,"female",29,"Black","9 - 11th Grade","Married",19.6,"Good",30.7,7,0,102,106,0
+"752",67594,"male",43,"White","College Grad","Married",152.44,"Good",25.3,3,0,132,134,0
+"753",67613,"female",21,"Other","Some College","NeverMarried",22.94,"Vgood",29,4,0,104,100,1
+"754",67613,"female",21,"Other","Some College","NeverMarried",22.94,"Vgood",29,3,0,104,100,1
+"755",67616,"male",63,"White","9 - 11th Grade","LivePartner",465.61,"Vgood",20.6,7,0,92,82,0
+"756",67624,"male",30,"White","College Grad","NeverMarried",333.33,"Vgood",24.7,6,0,116,114,0
+"757",67624,"male",30,"White","College Grad","NeverMarried",333.33,"Vgood",24.7,5,0,116,114,0
+"758",67668,"female",70,"White","Some College","Widowed",26.8,"Good",31.8,2,1,160,160,0
+"759",67683,"female",56,"White","Some College","LivePartner",9.75,"Fair",20.7,4,0,132,130,1
+"760",67722,"male",20,"White","Some College","NeverMarried",625.92,"Excellent",23.9,1,0,108,124,1
+"761",67761,"male",20,"Black","High School","NeverMarried",796.71,"Vgood",18.9,2,0,132,128,1
+"762",67775,"female",29,"White","High School","Married",23.36,"Excellent",23.9,5,0,112,118,1
+"763",67775,"female",29,"White","High School","Married",23.36,"Excellent",23.9,5,0,112,118,1
+"764",67785,"female",38,"White","9 - 11th Grade","Married",13.51,"Good",24.5,5,0,94,90,0
+"765",67786,"male",45,"White","9 - 11th Grade","NeverMarried",588.92,"Good",28.6,7,0,100,106,1
+"766",67786,"male",45,"White","9 - 11th Grade","NeverMarried",588.92,"Good",28.6,3,0,100,106,1
+"767",67799,"female",38,"White","Some College","Married",10.63,"Good",37.8,3,1,120,116,0
+"768",67817,"male",55,"White","Some College","Divorced",285.29,"Vgood",29.9,7,0,128,122,1
+"769",67828,"male",67,"Black","8th Grade","Married",987.03,"Good",24,2,0,170,168,1
+"770",67833,"male",80,"White","9 - 11th Grade","Married",262.44,"Fair",26.3,2,0,106,104,0
+"771",67834,"female",33,"White","Some College","NeverMarried",50.06,"Vgood",28.2,4,0,98,100,1
+"772",67834,"female",33,"White","Some College","NeverMarried",50.06,"Vgood",28.2,3,0,98,100,1
+"773",67836,"male",24,"White","Some College","NeverMarried",628.76,"Good",21.2,2,0,118,118,0
+"774",67840,"male",28,"White","Some College","Divorced",538.71,"Vgood",29.3,3,0,122,116,0
+"775",67840,"male",28,"White","Some College","Divorced",538.71,"Vgood",29.3,7,0,122,116,0
+"776",67844,"male",23,"White","Some College","Married",350.41,"Vgood",48.7,2,0,120,122,1
+"777",67863,"female",50,"White","Some College","Married",30.06,"Vgood",21.1,5,0,116,124,0
+"778",67879,"female",45,"White","Some College","Married",19.99,"Vgood",24.6,7,0,108,112,0
+"779",67887,"female",67,"Other","Some College","Married",7.78,"Vgood",23,6,0,138,142,0
+"780",67893,"male",34,"White","College Grad","NeverMarried",674.59,"Excellent",26.7,3,0,122,120,1
+"781",67907,"female",37,"White","High School","Married",10.98,"Good",24.3,5,0,88,94,1
+"782",67919,"female",59,"White","Some College","Divorced",10.01,"Good",26.6,7,0,134,128,1
+"783",67962,"female",40,"Black","Some College","Widowed",21.48,"Good",29.2,7,0,128,120,1
+"784",67972,"male",30,"White","Some College","NeverMarried",397.72,"Fair",30.5,1,0,136,128,1
+"785",67974,"male",27,"White","Some College","NeverMarried",234.55,"Good",44.4,2,0,124,120,1
+"786",67974,"male",27,"White","Some College","NeverMarried",234.55,"Good",44.4,6,0,124,120,1
+"787",67984,"male",20,"White","Some College","NeverMarried",528.66,"Vgood",21.2,4,0,94,96,1
+"788",67995,"male",70,"White","9 - 11th Grade","Married",252.9,"Fair",30.8,5,1,120,128,0
+"789",68010,"male",63,"Black","9 - 11th Grade","Widowed",298.82,"Good",35.9,2,0,156,136,0
+"790",68035,"female",78,"White","Some College","Widowed",23.24,"Vgood",30.2,6,0,98,100,0
+"791",68035,"female",78,"White","Some College","Widowed",23.24,"Vgood",30.2,4,0,98,100,0
+"792",68035,"female",78,"White","Some College","Widowed",23.24,"Vgood",30.2,7,0,98,100,0
+"793",68040,"male",25,"White","Some College","NeverMarried",176.61,"Good",32.1,5,0,124,122,1
+"794",68062,"male",28,"Mexican","Some College","LivePartner",460,"Vgood",23.7,3,0,124,120,1
+"795",68068,"female",79,"White","College Grad","Married",10.41,"Good",22.5,4,0,180,184,0
+"796",68086,"female",27,"Mexican","High School","Married",17.39,"Excellent",32.4,7,0,122,124,0
+"797",68109,"male",45,"Black","High School","Married",672,"Good",27.1,7,0,144,132,1
+"798",68115,"female",80,"White","Some College","Widowed",16.8,"Vgood",25.7,5,0,142,144,0
+"799",68123,"male",80,"White","8th Grade","NeverMarried",504.7,"Vgood",22.9,2,1,150,148,0
+"800",68139,"female",52,"Black","High School","Married",13.62,"Vgood",25.8,3,0,156,164,1
+"801",68152,"male",56,"Black","High School","Married",280,"Good",36.3,3,0,106,114,1
+"802",68177,"male",62,"White","College Grad","Married",321.4,"Good",26.8,4,1,102,102,1
+"803",68182,"male",47,"White","High School","Married",265.73,"Vgood",29.1,2,0,114,110,1
+"804",68196,"female",45,"White","Some College","Married",27.08,"Good",28,1,0,112,110,1
+"805",68196,"female",45,"White","Some College","Married",27.08,"Good",28,3,0,112,110,1
+"806",68196,"female",45,"White","Some College","Married",27.08,"Good",28,7,0,112,110,1
+"807",68203,"female",78,"Other","Some College","Married",12.02,"Vgood",31.7,3,0,140,138,0
+"808",68237,"male",63,"White","Some College","Married",517.27,"Vgood",29.6,6,0,116,114,1
+"809",68249,"male",60,"White","Some College","Married",660.2,"Excellent",27.6,4,0,116,110,1
+"810",68250,"female",50,"White","College Grad","Married",44.68,"Good",33.8,4,0,122,120,0
+"811",68250,"female",50,"White","College Grad","Married",44.68,"Good",33.8,1,0,122,120,0
+"812",68263,"female",63,"White","College Grad","Married",7.54,"Excellent",24.1,2,0,160,142,1
+"813",68263,"female",63,"White","College Grad","Married",7.54,"Excellent",24.1,3,0,160,142,1
+"814",68270,"female",48,"Hispanic","9 - 11th Grade","LivePartner",21.67,"Good",34,2,0,124,114,1
+"815",68271,"male",43,"White","Some College","NeverMarried",257.53,"Good",25.6,5,0,112,108,1
+"816",68271,"male",43,"White","Some College","NeverMarried",257.53,"Good",25.6,4,0,112,108,1
+"817",68285,"female",49,"White","High School","Married",30.74,"Good",41,4,1,116,98,0
+"818",68301,"male",59,"White","High School","Divorced",354.32,"Fair",32.6,5,0,202,204,1
+"819",68301,"male",59,"White","High School","Divorced",354.32,"Fair",32.6,2,0,202,204,1
+"820",68301,"male",59,"White","High School","Divorced",354.32,"Fair",32.6,5,0,202,204,1
+"821",68301,"male",59,"White","High School","Divorced",354.32,"Fair",32.6,4,0,202,204,1
+"822",68312,"female",35,"White","Some College","Married",51.27,"Vgood",29.3,3,0,136,128,1
+"823",68324,"female",27,"White","College Grad","Married",42.3,"Vgood",29.8,2,0,104,106,1
+"824",68330,"female",69,"White","9 - 11th Grade","Married",10.33,"Good",29.6,5,1,122,126,1
+"825",68344,"male",40,"White","Some College","Divorced",359.53,"Vgood",30,4,0,126,124,1
+"826",68348,"male",32,"Mexican","College Grad","Married",223.18,"Good",34.9,5,0,108,104,1
+"827",68353,"male",36,"White","College Grad","Married",738.86,"Vgood",26.8,1,0,124,122,1
+"828",68377,"male",74,"White","Some College","Separated",257.58,"Good",23.6,1,1,118,116,0
+"829",68380,"female",43,"Other","College Grad","Married",10.64,"Good",27.4,4,0,110,104,1
+"830",68387,"female",70,"Other","College Grad","Married",5.86,"Good",27.8,5,1,136,136,0
+"831",68440,"male",46,"White","Some College","Married",651.53,"Vgood",25.5,5,0,92,96,1
+"832",68447,"female",68,"White","Some College","Divorced",17.15,"Fair",41.2,2,0,144,144,0
+"833",68447,"female",68,"White","Some College","Divorced",17.15,"Fair",41.2,3,0,144,144,0
+"834",68467,"female",47,"White","College Grad","Married",13.18,"Vgood",22.8,3,0,148,162,0
+"835",68467,"female",47,"White","College Grad","Married",13.18,"Vgood",22.8,2,0,148,162,0
+"836",68474,"male",35,"White","College Grad","Married",345.46,"Excellent",26.5,7,0,114,116,1
+"837",68474,"male",35,"White","College Grad","Married",345.46,"Excellent",26.5,7,0,114,116,1
+"838",68477,"male",21,"Black","Some College","NeverMarried",600.56,"Vgood",23.1,2,0,122,112,1
+"839",68477,"male",21,"Black","Some College","NeverMarried",600.56,"Vgood",23.1,1,0,122,112,1
+"840",68478,"male",41,"White","Some College","Married",386.03,"Good",30.5,2,0,128,130,1
+"841",68478,"male",41,"White","Some College","Married",386.03,"Good",30.5,6,0,128,130,1
+"842",68478,"male",41,"White","Some College","Married",386.03,"Good",30.5,1,0,128,130,1
+"843",68491,"male",80,"White","9 - 11th Grade","Married",204.28,"Good",29.2,5,0,136,132,0
+"844",68493,"male",29,"Other","College Grad","Married",450.55,"Vgood",21.7,6,0,102,102,1
+"845",68497,"female",34,"White","College Grad","Divorced",19.9,"Vgood",26.4,1,0,114,106,1
+"846",68499,"male",58,"White","Some College","Married",612.22,"Fair",24.1,2,0,126,116,1
+"847",68499,"male",58,"White","Some College","Married",612.22,"Fair",24.1,2,0,126,116,1
+"848",68501,"male",52,"White","Some College","Married",893.15,"Excellent",29.2,3,0,124,130,0
+"849",68501,"male",52,"White","Some College","Married",893.15,"Excellent",29.2,3,0,124,130,0
+"850",68509,"female",26,"Black","Some College","NeverMarried",50.1,"Poor",37.7,5,0,104,106,0
+"851",68521,"female",28,"Hispanic","Some College","Divorced",26.44,"Good",25.2,2,0,112,112,0
+"852",68521,"female",28,"Hispanic","Some College","Divorced",26.44,"Good",25.2,2,0,112,112,0
+"853",68521,"female",28,"Hispanic","Some College","Divorced",26.44,"Good",25.2,7,0,112,112,0
+"854",68529,"female",80,"White","Some College","Widowed",12.14,"Good",18.9,2,0,154,148,0
+"855",68553,"female",61,"White","High School","Divorced",18.19,"Good",35.2,4,0,108,108,0
+"856",68575,"female",42,"Hispanic","College Grad","Married",42.22,"Excellent",26.5,5,0,116,114,1
+"857",68589,"male",54,"Black","Some College","Married",386.91,"Vgood",30.9,7,0,134,136,1
+"858",68589,"male",54,"Black","Some College","Married",386.91,"Vgood",30.9,1,0,134,136,1
+"859",68613,"female",61,"White","Some College","Widowed",64.05,"Vgood",27.7,6,0,124,118,0
+"860",68613,"female",61,"White","Some College","Widowed",64.05,"Vgood",27.7,4,0,124,118,0
+"861",68613,"female",61,"White","Some College","Widowed",64.05,"Vgood",27.7,3,0,124,118,0
+"862",68619,"male",30,"White","Some College","Married",399.75,"Vgood",25,3,0,124,116,1
+"863",68622,"female",70,"White","Some College","Married",28.1,"Good",24.6,3,0,128,124,0
+"864",68632,"female",65,"White","College Grad","Married",23.66,"Vgood",33.6,3,0,108,116,1
+"865",68633,"female",38,"Mexican","High School","Married",17.89,"Poor",22.9,3,0,100,98,1
+"866",68635,"female",58,"Other","Some College","Married",13.6,"Good",23.4,3,0,142,146,1
+"867",68635,"female",58,"Other","Some College","Married",13.6,"Good",23.4,4,0,142,146,1
+"868",68648,"female",30,"White","College Grad","Married",14.76,"Excellent",20.4,2,0,106,104,1
+"869",68665,"female",51,"Hispanic","High School","Divorced",22.19,"Good",25.9,3,0,100,96,0
+"870",68679,"male",43,"Other","Some College","Married",358.64,"Vgood",33.5,5,0,124,130,1
+"871",68679,"male",43,"Other","Some College","Married",358.64,"Vgood",33.5,5,0,124,130,1
+"872",68679,"male",43,"Other","Some College","Married",358.64,"Vgood",33.5,7,0,124,130,1
+"873",68679,"male",43,"Other","Some College","Married",358.64,"Vgood",33.5,3,0,124,130,1
+"874",68680,"female",22,"White","College Grad","LivePartner",16.82,"Vgood",28.8,3,0,112,116,1
+"875",68682,"female",79,"White","8th Grade","Married",21.22,"Fair",25.4,4,1,162,154,0
+"876",68707,"male",54,"White","College Grad","Married",92.37,"Fair",39.7,3,0,124,116,1
+"877",68707,"male",54,"White","College Grad","Married",92.37,"Fair",39.7,6,0,124,116,1
+"878",68722,"male",40,"Hispanic","9 - 11th Grade","Married",255.3,"Good",27.5,7,0,126,112,1
+"879",68722,"male",40,"Hispanic","9 - 11th Grade","Married",255.3,"Good",27.5,7,0,126,112,1
+"880",68738,"male",22,"White","High School","NeverMarried",375.56,"Fair",22.9,1,0,110,102,1
+"881",68752,"male",45,"Mexican","9 - 11th Grade","Married",212.94,"Good",30.3,5,0,100,102,1
+"882",68753,"female",43,"White","College Grad","Married",17.9,"Excellent",19.2,7,0,98,98,1
+"883",68754,"male",57,"White","Some College","LivePartner",437.72,"Vgood",23.2,3,1,124,122,0
+"884",68754,"male",57,"White","Some College","LivePartner",437.72,"Vgood",23.2,3,1,124,122,0
+"885",68765,"male",25,"Mexican","Some College","LivePartner",649.1,"Vgood",20.1,2,0,108,108,0
+"886",68774,"male",21,"White","Some College","NeverMarried",375.26,"Vgood",24.8,3,0,130,130,0
+"887",68787,"male",65,"White","College Grad","Married",1136.75,"Good",27.5,1,1,118,106,0
+"888",68787,"male",65,"White","College Grad","Married",1136.75,"Good",27.5,7,1,118,106,0
+"889",68790,"female",55,"White","Some College","Separated",21.03,"Fair",29.7,5,0,116,112,1
+"890",68794,"male",74,"White","Some College","Married",130.88,"Vgood",39.4,3,0,170,178,0
+"891",68799,"male",70,"White","9 - 11th Grade","Divorced",187.84,"Fair",27.2,3,0,106,106,0
+"892",68819,"male",47,"Mexican","9 - 11th Grade","Married",165,"Good",33.2,2,0,116,112,1
+"893",68824,"female",80,"Hispanic","9 - 11th Grade","Married",42.57,"Good",23.3,3,0,150,140,0
+"894",68824,"female",80,"Hispanic","9 - 11th Grade","Married",42.57,"Good",23.3,3,0,150,140,0
+"895",68833,"male",41,"Hispanic","High School","NeverMarried",210.53,"Fair",25.5,5,0,114,114,1
+"896",68839,"male",80,"White","College Grad","Married",260.72,"Vgood",28.4,4,0,116,120,0
+"897",68846,"female",49,"Other","College Grad","Married",17.55,"Vgood",37.3,5,1,114,120,1
+"898",68847,"male",21,"Mexican","Some College","NeverMarried",242,"Good",35,2,0,110,106,1
+"899",68847,"male",21,"Mexican","Some College","NeverMarried",242,"Good",35,3,0,110,106,1
+"900",68875,"male",52,"White","High School","Married",322.16,"Vgood",29.3,2,0,120,114,0
+"901",68875,"male",52,"White","High School","Married",322.16,"Vgood",29.3,4,0,120,114,0
+"902",68884,"female",54,"Black","High School","NeverMarried",7.49,"Fair",34.5,3,0,140,132,1
+"903",68894,"male",36,"Other","Some College","Married",153.15,"Good",36.9,4,0,124,128,0
+"904",68899,"male",48,"Black","High School","NeverMarried",499,"Good",28.6,7,0,116,118,0
+"905",68901,"female",47,"White","College Grad","LivePartner",15.85,"Excellent",22.7,5,0,124,114,1
+"906",68901,"female",47,"White","College Grad","LivePartner",15.85,"Excellent",22.7,5,0,124,114,1
+"907",68907,"female",26,"White","College Grad","Married",23.82,"Good",32,7,0,118,114,0
+"908",68907,"female",26,"White","College Grad","Married",23.82,"Good",32,6,0,118,114,0
+"909",68915,"female",48,"White","College Grad","Married",18.6,"Vgood",21.6,4,0,132,124,1
+"910",68915,"female",48,"White","College Grad","Married",18.6,"Vgood",21.6,4,0,132,124,1
+"911",68918,"male",55,"Mexican","8th Grade","NeverMarried",271.29,"Fair",28.3,3,0,144,134,1
+"912",68961,"female",64,"White","College Grad","Married",28.09,"Vgood",24.2,6,0,120,122,1
+"913",68961,"female",64,"White","College Grad","Married",28.09,"Vgood",24.2,2,0,120,122,1
+"914",68978,"male",39,"White","Some College","Married",350,"Good",36.1,3,0,114,96,1
+"915",68978,"male",39,"White","Some College","Married",350,"Good",36.1,4,0,114,96,1
+"916",69005,"female",77,"White","Some College","Married",36.27,"Vgood",31.1,2,0,106,106,0
+"917",69005,"female",77,"White","Some College","Married",36.27,"Vgood",31.1,3,0,106,106,0
+"918",69018,"male",39,"Black","9 - 11th Grade","LivePartner",341.98,"Good",19.4,4,0,124,124,0
+"919",69019,"female",44,"White","High School","Married",24.2,"Good",27.3,3,0,126,122,1
+"920",69035,"male",68,"White","Some College","Married",653.96,"Good",28.2,5,0,112,110,1
+"921",69042,"male",33,"Hispanic","High School","LivePartner",271.14,"Vgood",29.9,5,0,124,122,1
+"922",69042,"male",33,"Hispanic","High School","LivePartner",271.14,"Vgood",29.9,4,0,124,122,1
+"923",69045,"female",65,"Hispanic","Some College","Married",21.73,"Good",31.8,6,0,138,138,1
+"924",69060,"male",20,"White","Some College","NeverMarried",378.22,"Vgood",20,1,0,116,114,1
+"925",69101,"male",58,"Hispanic","8th Grade","Separated",821.82,"Fair",27,7,0,134,126,1
+"926",69101,"male",58,"Hispanic","8th Grade","Separated",821.82,"Fair",27,5,0,134,126,1
+"927",69120,"female",39,"Black","Some College","Married",28.89,"Vgood",28.4,4,0,118,116,0
+"928",69120,"female",39,"Black","Some College","Married",28.89,"Vgood",28.4,4,0,118,116,0
+"929",69123,"female",63,"White","Some College","Married",8.9,"Vgood",29,1,0,116,116,1
+"930",69136,"female",36,"Mexican","Some College","LivePartner",22.62,"Fair",26.4,3,0,106,108,0
+"931",69164,"female",80,"White","College Grad","Widowed",11.77,"Vgood",26.1,4,0,142,140,0
+"932",69181,"female",37,"White","8th Grade","NeverMarried",41.29,"Vgood",25,6,0,116,116,1
+"933",69223,"male",24,"White","College Grad","NeverMarried",569.01,"Excellent",23.1,1,0,108,104,1
+"934",69279,"female",58,"White","College Grad","Married",18.64,"Vgood",27.7,3,0,140,134,1
+"935",69279,"female",58,"White","College Grad","Married",18.64,"Vgood",27.7,7,0,140,134,1
+"936",69284,"male",53,"Hispanic","Some College","Divorced",435.89,"Fair",28.4,1,1,116,116,0
+"937",69307,"male",58,"Black","9 - 11th Grade","Divorced",507.87,"Excellent",17.9,7,0,154,154,0
+"938",69324,"male",42,"White","Some College","Married",473.53,"Fair",25.5,5,0,130,132,1
+"939",69325,"female",36,"Other","College Grad","LivePartner",20.69,"Good",31.7,5,0,112,122,1
+"940",69333,"female",76,"Other","8th Grade","Married",48.27,"Good",34.2,5,1,114,104,0
+"941",69349,"male",74,"White","College Grad","Married",145.13,"Excellent",25.2,5,1,158,154,0
+"942",69349,"male",74,"White","College Grad","Married",145.13,"Excellent",25.2,7,1,158,154,0
+"943",69373,"female",20,"White","Some College","NeverMarried",32.25,"Vgood",23.6,6,0,96,104,0
+"944",69375,"male",40,"White","Some College","NeverMarried",351.5,"Vgood",23.9,2,0,142,142,1
+"945",69386,"male",52,"Other","High School","NeverMarried",233.16,"Good",31.2,2,0,136,140,0
+"946",69390,"male",62,"White","9 - 11th Grade","Married",224.8,"Good",30.6,6,0,134,128,0
+"947",69393,"male",33,"Black","Some College","Married",499.55,"Excellent",29.6,2,0,110,110,1
+"948",69393,"male",33,"Black","Some College","Married",499.55,"Excellent",29.6,5,0,110,110,1
+"949",69402,"female",59,"Other","College Grad","NeverMarried",17.99,"Excellent",26.2,2,0,104,104,1
+"950",69402,"female",59,"Other","College Grad","NeverMarried",17.99,"Excellent",26.2,2,0,104,104,1
+"951",69411,"male",75,"White","College Grad","Married",4.67,"Good",38.7,5,1,116,104,0
+"952",69417,"male",27,"White","Some College","Married",455.65,"Good",19.3,5,0,112,122,1
+"953",69425,"female",66,"Other","College Grad","Married",17.96,"Good",27.5,6,0,128,120,0
+"954",69434,"female",43,"Mexican","Some College","Married",33.19,"Vgood",37.7,2,0,114,114,1
+"955",69446,"male",25,"Mexican","8th Grade","NeverMarried",363,"Vgood",30.5,5,0,106,108,1
+"956",69452,"female",56,"White","Some College","Married",16.55,"Vgood",38.4,2,0,118,122,1
+"957",69452,"female",56,"White","Some College","Married",16.55,"Vgood",38.4,2,0,118,122,1
+"958",69456,"male",52,"Black","College Grad","Married",315.27,"Fair",36.8,2,0,134,130,1
+"959",69459,"female",62,"Mexican","High School","Widowed",23.1,"Vgood",25.1,7,0,122,114,0
+"960",69465,"female",50,"White","College Grad","Divorced",8.17,"Vgood",26.9,4,0,144,150,0
+"961",69465,"female",50,"White","College Grad","Divorced",8.17,"Vgood",26.9,3,0,144,150,0
+"962",69471,"female",72,"White","College Grad","Married",29.46,"Excellent",21.6,4,0,132,116,0
+"963",69488,"female",65,"White","High School","Divorced",6.94,"Vgood",29.1,3,0,108,100,1
+"964",69488,"female",65,"White","High School","Divorced",6.94,"Vgood",29.1,5,0,108,100,1
+"965",69498,"male",31,"White","College Grad","Married",445.99,"Vgood",27.6,3,0,114,114,1
+"966",69505,"male",60,"White","8th Grade","LivePartner",727.13,"Poor",34.1,2,0,118,116,0
+"967",69508,"male",37,"Mexican","8th Grade","Married",432.18,"Good",29.8,3,0,114,116,1
+"968",69520,"male",22,"White","College Grad","NeverMarried",636.6,"Excellent",20.2,7,0,114,118,1
+"969",69521,"male",74,"White","Some College","Married",422,"Good",26,2,0,114,114,0
+"970",69523,"male",56,"White","High School","Divorced",490.01,"Good",34.1,2,0,94,94,1
+"971",69523,"male",56,"White","High School","Divorced",490.01,"Good",34.1,3,0,94,94,1
+"972",69523,"male",56,"White","High School","Divorced",490.01,"Good",34.1,7,0,94,94,1
+"973",69537,"male",49,"White","College Grad","Married",372.81,"Good",29.8,2,0,116,124,1
+"974",69537,"male",49,"White","College Grad","Married",372.81,"Good",29.8,2,0,116,124,1
+"975",69537,"male",49,"White","College Grad","Married",372.81,"Good",29.8,5,0,116,124,1
+"976",69537,"male",49,"White","College Grad","Married",372.81,"Good",29.8,3,0,116,124,1
+"977",69566,"male",80,"Hispanic","8th Grade","Married",568.78,"Fair",24.8,4,0,118,104,0
+"978",69566,"male",80,"Hispanic","8th Grade","Married",568.78,"Fair",24.8,7,0,118,104,0
+"979",69574,"female",48,"White","College Grad","Married",24.13,"Vgood",23.2,1,0,118,128,1
+"980",69574,"female",48,"White","College Grad","Married",24.13,"Vgood",23.2,5,0,118,128,1
+"981",69603,"male",26,"Mexican","9 - 11th Grade","Married",796.94,"Fair",24.2,2,0,74,86,1
+"982",69613,"female",27,"Other","Some College","Married",30.43,"Vgood",23.5,7,0,108,108,1
+"983",69616,"female",26,"White","High School","Married",22.63,"Good",31.1,2,0,112,104,1
+"984",69617,"female",25,"White","Some College","Divorced",30.45,"Vgood",26.3,5,0,110,110,1
+"985",69618,"female",64,"White","High School","Married",18.75,"Vgood",25.4,3,0,142,152,0
+"986",69618,"female",64,"White","High School","Married",18.75,"Vgood",25.4,3,0,142,152,0
+"987",69626,"male",53,"White","Some College","Married",367.35,"Good",34.1,7,1,116,120,1
+"988",69626,"male",53,"White","Some College","Married",367.35,"Good",34.1,7,1,116,120,1
+"989",69626,"male",53,"White","Some College","Married",367.35,"Good",34.1,3,1,116,120,1
+"990",69633,"male",38,"Mexican","Some College","Married",319.34,"Good",30.8,3,0,130,128,1
+"991",69637,"female",58,"White","9 - 11th Grade","Divorced",12.26,"Fair",32.5,5,0,128,128,1
+"992",69637,"female",58,"White","9 - 11th Grade","Divorced",12.26,"Fair",32.5,1,0,128,128,1
+"993",69637,"female",58,"White","9 - 11th Grade","Divorced",12.26,"Fair",32.5,6,0,128,128,1
+"994",69640,"female",23,"Black","9 - 11th Grade","NeverMarried",36.28,"Fair",38.5,3,0,108,104,1
+"995",69640,"female",23,"Black","9 - 11th Grade","NeverMarried",36.28,"Fair",38.5,6,0,108,104,1
+"996",69645,"female",71,"White","Some College","Married",7.86,"Vgood",23.8,6,0,146,138,1
+"997",69647,"male",36,"White","9 - 11th Grade","LivePartner",600,"Vgood",29.4,2,0,134,126,1
+"998",69648,"male",80,"White","College Grad","Married",211,"Good",23.2,3,0,100,98,0
+"999",69675,"female",58,"White","9 - 11th Grade","Widowed",28.52,"Poor",31.3,1,0,128,130,0
+"1000",69693,"female",37,"Mexican","Some College","Divorced",13.07,"Fair",36.2,2,0,116,116,1
+"1001",69698,"male",49,"Black","High School","Divorced",229.82,"Good",34.5,3,1,130,126,0
+"1002",69702,"male",42,"White","Some College","LivePartner",363.12,"Good",26.9,3,0,112,118,1
+"1003",69709,"female",62,"White","Some College","NeverMarried",23.72,"Poor",50.9,7,0,136,136,0
+"1004",69716,"female",63,"White","Some College","Married",9.87,"Vgood",26,2,0,120,122,0
+"1005",69724,"male",58,"White","9 - 11th Grade","Married",314.63,"Good",24.9,3,0,116,126,0
+"1006",69746,"female",43,"White","College Grad","Married",30.41,"Vgood",25.1,2,0,134,132,1
+"1007",69748,"female",50,"White","High School","Married",10.51,"Vgood",30.4,5,0,124,116,1
+"1008",69750,"male",44,"White","College Grad","Married",229.96,"Vgood",29.7,3,0,120,124,1
+"1009",69752,"female",79,"White","College Grad","Widowed",27.93,"Vgood",30,2,0,114,112,0
+"1010",69767,"male",56,"Other","Some College","Divorced",413.72,"Good",45.3,4,0,160,162,0
+"1011",69798,"female",21,"White","Some College","NeverMarried",35.99,"Excellent",19.8,4,0,116,116,1
+"1012",69811,"male",59,"White","Some College","Separated",315,"Good",22.6,1,0,152,134,1
+"1013",69822,"male",64,"Other","8th Grade","Married",286.51,"Good",22.3,6,0,122,120,1
+"1014",69823,"female",55,"Black","College Grad","Divorced",31.01,"Excellent",28.6,1,0,152,148,1
+"1015",69825,"female",43,"White","College Grad","Married",40.14,"Excellent",23.7,5,0,122,122,0
+"1016",69838,"male",31,"Hispanic","High School","Married",162.85,"Fair",47.3,7,0,116,116,1
+"1017",69843,"male",40,"Other","College Grad","Married",220.65,"Good",26.2,7,0,142,154,1
+"1018",69856,"male",37,"White","College Grad","Married",309.47,"Vgood",24.1,6,0,110,118,1
+"1019",69856,"male",37,"White","College Grad","Married",309.47,"Vgood",24.1,1,0,110,118,1
+"1020",69873,"male",22,"Black","High School","LivePartner",390.39,"Good",17.8,5,0,112,116,0
+"1021",69875,"female",45,"Other","9 - 11th Grade","Married",27.73,"Good",23.3,5,0,112,112,1
+"1022",69896,"male",49,"White","High School","NeverMarried",293.59,"Good",23.8,1,0,116,120,1
+"1023",69917,"female",33,"White","College Grad","Married",20.2,"Vgood",33.8,5,0,112,112,0
+"1024",69921,"male",75,"Black","Some College","Married",12.16,"Fair",30.2,5,1,150,152,0
+"1025",69923,"male",57,"White","College Grad","Married",361.05,"Vgood",25.6,1,0,124,128,1
+"1026",69923,"male",57,"White","College Grad","Married",361.05,"Vgood",25.6,4,0,124,128,1
+"1027",69930,"female",27,"White","College Grad","Married",16.41,"Vgood",30,5,0,114,118,1
+"1028",69931,"female",28,"White","College Grad","Married",83.18,"Good",29.6,5,0,110,112,1
+"1029",69934,"female",56,"White","College Grad","Married",24.64,"Good",26.7,3,0,96,96,0
+"1030",69959,"female",51,"Hispanic","9 - 11th Grade","Separated",15.16,"Fair",23.2,4,0,124,126,0
+"1031",70000,"female",59,"Black","High School","Divorced",14.13,"Good",29.6,4,0,176,172,1
+"1032",70013,"male",70,"Black","College Grad","Married",511.76,"Vgood",28.4,3,0,134,132,1
+"1033",70026,"male",31,"Black","Some College","NeverMarried",201,"Good",63.3,1,0,134,132,1
+"1034",70045,"female",35,"White","College Grad","Married",4.17,"Vgood",20.6,4,0,108,98,0
+"1035",70045,"female",35,"White","College Grad","Married",4.17,"Vgood",20.6,4,0,108,98,0
+"1036",70046,"male",55,"White","Some College","Separated",624.88,"Fair",22.4,2,0,140,126,1
+"1037",70064,"female",38,"White","High School","Divorced",9.9,"Fair",31.7,3,1,98,98,1
+"1038",70064,"female",38,"White","High School","Divorced",9.9,"Fair",31.7,2,1,98,98,1
+"1039",70080,"female",32,"Other","College Grad","Married",6.43,"Fair",31.7,5,0,124,116,0
+"1040",70096,"female",77,"White","College Grad","Widowed",40.11,"Vgood",48,3,0,122,118,0
+"1041",70111,"male",56,"Black","High School","Married",664.64,"Vgood",17,1,0,126,122,1
+"1042",70120,"female",70,"White","Some College","Married",24.45,"Vgood",22.9,5,0,126,128,0
+"1043",70122,"female",37,"White","Some College","Married",42.54,"Fair",43.6,3,0,126,126,1
+"1044",70127,"female",26,"White","Some College","NeverMarried",14.04,"Good",29.5,1,0,108,108,0
+"1045",70127,"female",26,"White","Some College","NeverMarried",14.04,"Good",29.5,3,0,108,108,0
+"1046",70134,"female",47,"White","Some College","Married",15.32,"Vgood",30.9,7,0,114,110,1
+"1047",70142,"female",69,"White","Some College","Widowed",5.33,"Good",23.5,4,0,148,148,0
+"1048",70142,"female",69,"White","Some College","Widowed",5.33,"Good",23.5,4,0,148,148,0
+"1049",70142,"female",69,"White","Some College","Widowed",5.33,"Good",23.5,2,0,148,148,0
+"1050",70142,"female",69,"White","Some College","Widowed",5.33,"Good",23.5,5,0,148,148,0
+"1051",70151,"female",80,"White","High School","Widowed",7.84,"Vgood",30.7,2,0,114,120,0
+"1052",70151,"female",80,"White","High School","Widowed",7.84,"Vgood",30.7,7,0,114,120,0
+"1053",70151,"female",80,"White","High School","Widowed",7.84,"Vgood",30.7,7,0,114,120,0
+"1054",70171,"female",30,"White","Some College","LivePartner",22.35,"Good",20.1,2,0,100,106,0
+"1055",70176,"female",23,"Mexican","Some College","NeverMarried",19.12,"Good",21.9,1,0,110,102,1
+"1056",70211,"female",80,"White","9 - 11th Grade","Married",13.27,"Good",29.2,5,0,110,102,0
+"1057",70223,"male",47,"White","Some College","Divorced",479.84,"Good",31.1,5,0,98,112,1
+"1058",70226,"female",70,"Black","8th Grade","NeverMarried",11.76,"Vgood",39.2,3,0,156,152,0
+"1059",70251,"female",43,"Mexican","High School","Married",17,"Excellent",26.3,5,0,114,116,1
+"1060",70251,"female",43,"Mexican","High School","Married",17,"Excellent",26.3,5,0,114,116,1
+"1061",70254,"female",42,"White","9 - 11th Grade","Married",15.16,"Excellent",31.2,2,0,112,110,1
+"1062",70265,"female",46,"White","High School","Widowed",7.87,"Good",27.6,6,0,106,114,1
+"1063",70274,"female",80,"White","Some College","Widowed",12,"Vgood",19.8,5,0,162,164,0
+"1064",70276,"female",51,"White","College Grad","Married",15.14,"Vgood",19.8,4,0,118,124,1
+"1065",70276,"female",51,"White","College Grad","Married",15.14,"Vgood",19.8,2,0,118,124,1
+"1066",70279,"female",53,"Black","High School","Divorced",8.75,"Poor",28.8,4,0,120,100,0
+"1067",70281,"female",30,"Other","Some College","NeverMarried",19.02,"Vgood",25.1,5,0,124,118,1
+"1068",70297,"male",73,"White","8th Grade","Married",479.6,"Good",24.7,3,0,150,150,1
+"1069",70302,"male",23,"White","College Grad","NeverMarried",194.36,"Good",30.1,3,0,128,122,1
+"1070",70302,"male",23,"White","College Grad","NeverMarried",194.36,"Good",30.1,1,0,128,122,1
+"1071",70333,"female",20,"Mexican","Some College","NeverMarried",50.45,"Vgood",18,3,0,102,96,1
+"1072",70338,"female",36,"Black","Some College","Separated",5.45,"Good",30.5,2,0,124,120,1
+"1073",70352,"female",55,"White","Some College","Separated",25.02,"Poor",26.2,3,1,134,138,0
+"1074",70356,"female",25,"White","8th Grade","NeverMarried",20.97,"Good",36.3,2,0,98,106,0
+"1075",70359,"male",80,"White","Some College","Married",544.38,"Vgood",26.2,3,0,132,128,0
+"1076",70363,"female",62,"White","College Grad","Married",14.53,"Vgood",30.7,5,0,148,150,0
+"1077",70405,"female",61,"White","College Grad","Married",11.69,"Good",32.7,4,0,114,112,1
+"1078",70411,"female",23,"Hispanic","Some College","NeverMarried",27.72,"Good",21.9,7,0,108,104,0
+"1079",70421,"female",51,"Hispanic","9 - 11th Grade","Divorced",17.38,"Fair",36.8,2,0,100,100,0
+"1080",70425,"male",77,"White","9 - 11th Grade","Married",237.27,"Fair",23.9,5,1,154,148,0
+"1081",70429,"female",44,"White","Some College","Divorced",19.73,"Vgood",31.9,4,1,104,108,1
+"1082",70430,"female",37,"White","College Grad","Married",16.53,"Excellent",19.9,2,0,102,100,1
+"1083",70430,"female",37,"White","College Grad","Married",16.53,"Excellent",19.9,7,0,102,100,1
+"1084",70430,"female",37,"White","College Grad","Married",16.53,"Excellent",19.9,2,0,102,100,1
+"1085",70431,"female",20,"Hispanic","9 - 11th Grade","NeverMarried",12.07,"Good",25,7,0,98,100,1
+"1086",70438,"male",42,"White","College Grad","Married",259.62,"Vgood",36.1,4,0,126,124,0
+"1087",70458,"female",35,"Black","9 - 11th Grade","NeverMarried",35.5,"Good",21.9,1,0,116,114,0
+"1088",70498,"female",63,"White","College Grad","NeverMarried",26.51,"Good",39,2,0,136,128,0
+"1089",70501,"female",49,"White","College Grad","Married",18.47,"Fair",32,7,0,118,116,1
+"1090",70502,"male",71,"White","9 - 11th Grade","LivePartner",442,"Excellent",29.7,3,0,142,138,0
+"1091",70531,"male",49,"Black","High School","Married",506.93,"Excellent",28.1,7,0,116,108,1
+"1092",70533,"female",51,"White","College Grad","Divorced",36.99,"Excellent",30.5,3,0,104,104,1
+"1093",70534,"female",48,"Mexican","9 - 11th Grade","LivePartner",10,"Fair",27.6,4,0,104,100,1
+"1094",70535,"male",40,"White","College Grad","Married",363.64,"Vgood",26.3,4,0,130,130,1
+"1095",70551,"male",37,"White","Some College","Married",239.58,"Good",28.3,7,0,128,128,1
+"1096",70566,"female",31,"Black","High School","NeverMarried",38.82,"Excellent",29.4,4,0,100,102,1
+"1097",70573,"male",24,"Mexican","High School","NeverMarried",777.52,"Fair",34,2,0,118,124,0
+"1098",70574,"female",36,"Black","High School","NeverMarried",45.76,"Excellent",35.4,3,0,148,148,0
+"1099",70574,"female",36,"Black","High School","NeverMarried",45.76,"Excellent",35.4,5,0,148,148,0
+"1100",70581,"female",63,"White","9 - 11th Grade","Married",39.6,"Vgood",27.9,2,0,112,116,1
+"1101",70581,"female",63,"White","9 - 11th Grade","Married",39.6,"Vgood",27.9,3,0,112,116,1
+"1102",70584,"female",36,"Other","College Grad","Married",14.75,"Vgood",21.4,6,0,110,100,1
+"1103",70603,"male",55,"White","College Grad","LivePartner",481.6,"Vgood",30.5,5,0,126,126,1
+"1104",70603,"male",55,"White","College Grad","LivePartner",481.6,"Vgood",30.5,5,0,126,126,1
+"1105",70603,"male",55,"White","College Grad","LivePartner",481.6,"Vgood",30.5,5,0,126,126,1
+"1106",70623,"male",54,"Other","High School","Married",341.01,"Good",32.6,3,0,106,110,1
+"1107",70624,"male",42,"Mexican","High School","Married",214,"Good",32,3,0,114,114,1
+"1108",70628,"female",80,"White","Some College","Widowed",14.64,"Good",27.9,4,0,148,152,0
+"1109",70638,"male",53,"White","Some College","Married",372.06,"Good",20.9,3,0,124,126,1
+"1110",70647,"female",38,"Other","College Grad","Married",38.37,"Fair",35.5,3,0,130,130,1
+"1111",70647,"female",38,"Other","College Grad","Married",38.37,"Fair",35.5,5,0,130,130,1
+"1112",70654,"female",28,"White","9 - 11th Grade","LivePartner",43.82,"Good",33.4,2,0,114,110,1
+"1113",70654,"female",28,"White","9 - 11th Grade","LivePartner",43.82,"Good",33.4,3,0,114,110,1
+"1114",70664,"female",70,"White","High School","Married",11.61,"Fair",33.1,7,1,160,154,0
+"1115",70697,"male",32,"White","College Grad","Widowed",262.63,"Good",32.8,5,0,136,138,1
+"1116",70703,"female",57,"White","Some College","Married",8.12,"Good",23,5,0,140,142,1
+"1117",70703,"female",57,"White","Some College","Married",8.12,"Good",23,3,0,140,142,1
+"1118",70708,"male",57,"White","9 - 11th Grade","Married",455.88,"Good",26.5,3,0,118,120,1
+"1119",70730,"male",55,"Mexican","8th Grade","Married",515.23,"Excellent",27,5,1,170,170,1
+"1120",70736,"female",32,"Other","College Grad","Separated",22.48,"Excellent",23.2,7,0,120,120,1
+"1121",70753,"male",30,"Mexican","8th Grade","LivePartner",268.03,"Fair",33.2,1,0,138,128,1
+"1122",70755,"male",56,"White","Some College","Married",338.62,"Good",23.7,3,0,154,162,1
+"1123",70755,"male",56,"White","Some College","Married",338.62,"Good",23.7,3,0,154,162,1
+"1124",70757,"male",36,"White","College Grad","Married",443.95,"Excellent",21.7,5,0,118,122,1
+"1125",70765,"female",67,"White","8th Grade","Widowed",6.65,"Vgood",28.9,4,1,114,104,0
+"1126",70779,"male",80,"White","Some College","Married",241.27,"Good",32.9,4,0,106,104,0
+"1127",70782,"male",64,"White","College Grad","Married",679.41,"Vgood",25.7,1,0,132,124,0
+"1128",70782,"male",64,"White","College Grad","Married",679.41,"Vgood",25.7,6,0,132,124,0
+"1129",70786,"male",60,"White","College Grad","Married",199.28,"Vgood",26.2,7,0,148,148,1
+"1130",70807,"female",22,"Mexican","Some College","NeverMarried",73.3,"Good",29,5,0,94,96,1
+"1131",70821,"male",63,"White","Some College","Married",368,"Vgood",30.3,1,0,154,144,1
+"1132",70821,"male",63,"White","Some College","Married",368,"Vgood",30.3,1,0,154,144,1
+"1133",70828,"male",26,"White","Some College","LivePartner",461.78,"Good",31.5,3,0,118,120,1
+"1134",70828,"male",26,"White","Some College","LivePartner",461.78,"Good",31.5,3,0,118,120,1
+"1135",70832,"female",31,"White","Some College","Married",22.9,"Excellent",23.2,1,0,114,110,0
+"1136",70832,"female",31,"White","Some College","Married",22.9,"Excellent",23.2,3,0,114,110,0
+"1137",70845,"female",21,"Black","Some College","NeverMarried",91.01,"Fair",20.8,2,0,112,106,0
+"1138",70851,"male",36,"White","College Grad","Married",376.64,"Vgood",22.9,2,0,110,116,1
+"1139",70851,"male",36,"White","College Grad","Married",376.64,"Vgood",22.9,7,0,110,116,1
+"1140",70863,"female",77,"Other","Some College","Divorced",7.03,"Good",24.3,7,0,136,134,0
+"1141",70867,"female",29,"Mexican","Some College","LivePartner",59.02,"Fair",22.6,5,0,90,92,0
+"1142",70868,"male",46,"White","9 - 11th Grade","Married",158.08,"Fair",21.1,5,0,104,114,0
+"1143",70868,"male",46,"White","9 - 11th Grade","Married",158.08,"Fair",21.1,3,0,104,114,0
+"1144",70868,"male",46,"White","9 - 11th Grade","Married",158.08,"Fair",21.1,7,0,104,114,0
+"1145",70881,"male",23,"White","College Grad","NeverMarried",320.44,"Vgood",25.8,7,0,116,112,1
+"1146",70893,"female",30,"White","9 - 11th Grade","Married",13.06,"Vgood",22.5,3,0,108,104,0
+"1147",70894,"male",70,"White","9 - 11th Grade","Married",322.27,"Vgood",36.1,6,1,128,124,1
+"1148",70911,"male",59,"White","College Grad","Married",429.29,"Good",24.5,3,0,122,116,1
+"1149",70921,"female",29,"Other","Some College","Married",25.09,"Vgood",19.6,4,0,92,96,1
+"1150",70935,"female",46,"Black","College Grad","Married",12.91,"Vgood",24.5,2,0,114,112,1
+"1151",70935,"female",46,"Black","College Grad","Married",12.91,"Vgood",24.5,7,0,114,112,1
+"1152",70939,"female",28,"Hispanic","9 - 11th Grade","LivePartner",22.25,"Vgood",30,2,0,112,112,1
+"1153",70949,"female",68,"White","Some College","Married",8.68,"Vgood",23.8,1,0,122,128,0
+"1154",70949,"female",68,"White","Some College","Married",8.68,"Vgood",23.8,4,0,122,128,0
+"1155",70949,"female",68,"White","Some College","Married",8.68,"Vgood",23.8,1,0,122,128,0
+"1156",70959,"female",55,"White","College Grad","LivePartner",31,"Good",39.7,6,0,100,94,0
+"1157",70972,"male",61,"Black","Some College","Divorced",243.8,"Good",30.5,2,0,126,126,0
+"1158",70975,"female",22,"White","College Grad","Married",34.11,"Good",31.9,2,0,94,108,1
+"1159",70975,"female",22,"White","College Grad","Married",34.11,"Good",31.9,2,0,94,108,1
+"1160",70975,"female",22,"White","College Grad","Married",34.11,"Good",31.9,3,0,94,108,1
+"1161",70983,"female",39,"White","College Grad","Married",14.37,"Excellent",20.4,5,0,112,90,1
+"1162",70983,"female",39,"White","College Grad","Married",14.37,"Excellent",20.4,3,0,112,90,1
+"1163",70984,"male",73,"White","College Grad","Married",377.59,"Excellent",30.9,7,0,136,134,1
+"1164",70984,"male",73,"White","College Grad","Married",377.59,"Excellent",30.9,4,0,136,134,1
+"1165",70999,"female",50,"White","College Grad","Married",23.79,"Vgood",20.2,7,0,100,94,0
+"1166",70999,"female",50,"White","College Grad","Married",23.79,"Vgood",20.2,6,0,100,94,0
+"1167",71003,"male",78,"White","8th Grade","NeverMarried",519.5,"Good",22,2,0,194,198,0
+"1168",71008,"male",50,"Black","Some College","Married",255.26,"Fair",31.4,7,0,128,118,1
+"1169",71020,"female",80,"White","High School","Widowed",4.83,"Fair",31.3,6,0,166,166,0
+"1170",71039,"female",30,"White","College Grad","Married",18.89,"Vgood",33.6,3,0,122,118,1
+"1171",71040,"male",63,"White","9 - 11th Grade","Married",229.07,"Good",29.9,2,0,118,122,0
+"1172",71046,"male",52,"White","Some College","Married",179.25,"Vgood",33.8,3,0,114,120,1
+"1173",71046,"male",52,"White","Some College","Married",179.25,"Vgood",33.8,5,0,114,120,1
+"1174",71054,"female",51,"White","High School","LivePartner",15.68,"Good",25,2,0,134,144,1
+"1175",71054,"female",51,"White","High School","LivePartner",15.68,"Good",25,5,0,134,144,1
+"1176",71054,"female",51,"White","High School","LivePartner",15.68,"Good",25,5,0,134,144,1
+"1177",71060,"female",31,"White","Some College","Widowed",31.2,"Good",33.8,5,0,126,116,1
+"1178",71069,"female",62,"White","High School","Married",24.15,"Good",29.9,2,0,140,134,0
+"1179",71072,"female",50,"Hispanic","High School","Separated",22.55,"Fair",37,7,0,112,102,1
+"1180",71079,"male",34,"White","Some College","Married",638.13,"Vgood",22.3,3,0,116,118,1
+"1181",71079,"male",34,"White","Some College","Married",638.13,"Vgood",22.3,3,0,116,118,1
+"1182",71079,"male",34,"White","Some College","Married",638.13,"Vgood",22.3,5,0,116,118,1
+"1183",71093,"male",50,"White","High School","LivePartner",537.23,"Vgood",27.4,3,0,126,128,1
+"1184",71093,"male",50,"White","High School","LivePartner",537.23,"Vgood",27.4,3,0,126,128,1
+"1185",71093,"male",50,"White","High School","LivePartner",537.23,"Vgood",27.4,7,0,126,128,1
+"1186",71094,"female",51,"White","Some College","Divorced",16.02,"Good",24.4,5,0,130,126,1
+"1187",71119,"male",36,"White","Some College","Married",611.31,"Vgood",25.2,5,0,112,116,1
+"1188",71123,"male",41,"Black","Some College","Married",613.28,"Excellent",30.4,1,0,138,138,1
+"1189",71127,"female",70,"White","College Grad","Married",27.84,"Good",27.7,2,1,100,98,0
+"1190",71133,"female",36,"White","College Grad","NeverMarried",18.5,"Vgood",18.1,7,0,86,86,1
+"1191",71143,"female",53,"Black","College Grad","Married",14.57,"Excellent",21,3,0,102,106,1
+"1192",71146,"male",34,"White","Some College","NeverMarried",385,"Excellent",23.6,2,0,122,122,1
+"1193",71159,"female",37,"White","College Grad","Married",5.39,"Vgood",20.8,5,0,126,124,1
+"1194",71183,"male",38,"White","Some College","Married",402.62,"Vgood",22.6,3,0,110,108,1
+"1195",71183,"male",38,"White","Some College","Married",402.62,"Vgood",22.6,3,0,110,108,1
+"1196",71208,"male",32,"White","College Grad","Married",494.3,"Excellent",21,5,0,102,102,1
+"1197",71211,"female",32,"Other","Some College","NeverMarried",37.46,"Good",24.6,5,0,112,108,1
+"1198",71239,"male",48,"White","8th Grade","Widowed",482.18,"Fair",22.3,4,0,102,102,1
+"1199",71244,"female",64,"White","College Grad","Divorced",9.9,"Excellent",25.5,5,0,108,116,0
+"1200",71244,"female",64,"White","College Grad","Divorced",9.9,"Excellent",25.5,3,0,108,116,0
+"1201",71244,"female",64,"White","College Grad","Divorced",9.9,"Excellent",25.5,5,0,108,116,0
+"1202",71266,"female",68,"White","Some College","Married",6.87,"Excellent",22.5,2,1,148,138,0
+"1203",71272,"male",30,"White","College Grad","Married",518.48,"Good",25.6,3,0,104,110,1
+"1204",71274,"female",28,"Mexican","College Grad","LivePartner",19.7,"Vgood",21.8,4,0,106,108,1
+"1205",71288,"male",68,"White","College Grad","Married",534.87,"Excellent",23.4,1,0,108,114,1
+"1206",71291,"male",50,"White","College Grad","Separated",391.65,"Excellent",25.4,2,0,122,126,0
+"1207",71291,"male",50,"White","College Grad","Separated",391.65,"Excellent",25.4,3,0,122,126,0
+"1208",71296,"female",32,"White","High School","LivePartner",4.57,"Good",33.8,2,0,100,104,1
+"1209",71307,"male",58,"White","Some College","Divorced",405.88,"Good",32.9,2,0,108,106,1
+"1210",71316,"male",57,"Other","9 - 11th Grade","Married",599,"Vgood",24.7,1,0,114,116,1
+"1211",71316,"male",57,"Other","9 - 11th Grade","Married",599,"Vgood",24.7,2,0,114,116,1
+"1212",71340,"female",36,"White","9 - 11th Grade","Divorced",22.67,"Fair",40.8,4,0,130,134,0
+"1213",71354,"male",50,"Mexican","College Grad","NeverMarried",379,"Excellent",29.6,3,0,138,144,1
+"1214",71356,"male",63,"White","Some College","Married",373.26,"Good",22.6,5,0,182,154,1
+"1215",71356,"male",63,"White","Some College","Married",373.26,"Good",22.6,7,0,182,154,1
+"1216",71393,"male",27,"White","High School","Divorced",494.66,"Vgood",25.7,3,0,118,112,1
+"1217",71399,"male",55,"White","Some College","Married",282.48,"Fair",21.6,5,1,102,110,0
+"1218",71403,"female",30,"White","Some College","Married",30.68,"Vgood",45.4,2,0,120,116,0
+"1219",71420,"female",54,"Mexican","9 - 11th Grade","Married",24.6,"Good",32.5,2,0,122,128,0
+"1220",71422,"female",37,"White","College Grad","Married",32.63,"Excellent",23.1,4,0,108,108,1
+"1221",71428,"male",35,"White","Some College","Married",216.07,"Good",45.3,2,0,114,110,1
+"1222",71428,"male",35,"White","Some College","Married",216.07,"Good",45.3,7,0,114,110,1
+"1223",71456,"male",21,"Mexican","9 - 11th Grade","NeverMarried",285.15,"Vgood",26.7,2,0,116,112,0
+"1224",71478,"male",43,"Mexican","8th Grade","LivePartner",924,"Good",29.3,3,0,118,116,1
+"1225",71488,"female",41,"Black","High School","Married",18.65,"Good",40.2,5,0,102,104,1
+"1226",71526,"female",39,"Other","College Grad","Married",20.07,"Excellent",18.8,1,0,98,94,0
+"1227",71526,"female",39,"Other","College Grad","Married",20.07,"Excellent",18.8,3,0,98,94,0
+"1228",71529,"male",33,"Black","Some College","Married",688.14,"Vgood",27.6,4,0,104,102,1
+"1229",71531,"male",35,"White","Some College","NeverMarried",442.02,"Good",22.4,5,0,138,144,0
+"1230",71531,"male",35,"White","Some College","NeverMarried",442.02,"Good",22.4,3,0,138,144,0
+"1231",71545,"male",27,"Mexican","College Grad","Married",366,"Vgood",22,3,0,104,108,1
+"1232",71567,"male",35,"White","High School","LivePartner",691.84,"Good",26.9,3,0,122,122,1
+"1233",71569,"male",56,"Mexican","8th Grade","Married",288.92,"Fair",29,5,1,148,138,1
+"1234",71578,"male",41,"White","High School","Married",360.69,"Good",30.6,3,0,144,138,1
+"1235",71578,"male",41,"White","High School","Married",360.69,"Good",30.6,4,0,144,138,1
+"1236",71594,"male",27,"White","College Grad","NeverMarried",395.3,"Vgood",23.3,1,0,124,120,1
+"1237",71613,"male",75,"Black","8th Grade","Widowed",420.44,"Good",23.9,7,0,176,176,0
+"1238",71644,"female",80,"White","Some College","Married",22.57,"Vgood",22.5,3,0,160,162,0
+"1239",71656,"male",58,"White","College Grad","Married",262.83,"Fair",23.8,2,0,106,114,1
+"1240",71656,"male",58,"White","College Grad","Married",262.83,"Fair",23.8,1,0,106,114,1
+"1241",71675,"female",73,"White","High School","Married",17.94,"Good",28.3,2,0,136,144,0
+"1242",71675,"female",73,"White","High School","Married",17.94,"Good",28.3,7,0,136,144,0
+"1243",71676,"male",80,"White","High School","Married",20.98,"Good",27,2,0,120,122,0
+"1244",71697,"male",74,"White","8th Grade","Married",347.53,"Fair",28.6,3,0,152,142,0
+"1245",71698,"female",46,"White","College Grad","Married",44.08,"Vgood",24.3,5,0,112,114,1
+"1246",71704,"male",77,"White","9 - 11th Grade","Married",316.21,"Good",28.1,1,0,132,130,0
+"1247",71725,"male",24,"Other","College Grad","NeverMarried",413.81,"Good",22.7,5,0,104,98,1
+"1248",71736,"male",74,"White","Some College","Married",268.96,"Excellent",26.4,6,0,112,104,0
+"1249",71737,"female",36,"Mexican","8th Grade","NeverMarried",25.88,"Vgood",27.2,6,0,118,124,1
+"1250",71745,"female",21,"White","Some College","NeverMarried",25.72,"Vgood",27.8,4,0,122,124,1
+"1251",71756,"male",63,"White","College Grad","Married",502.97,"Vgood",23.7,2,0,130,130,1
+"1252",71756,"male",63,"White","College Grad","Married",502.97,"Vgood",23.7,3,0,130,130,1
+"1253",71763,"male",40,"White","Some College","Married",510.64,"Vgood",20.9,3,0,122,128,1
+"1254",71773,"male",53,"Black","Some College","Divorced",350,"Good",28,2,1,94,86,1
+"1255",71775,"male",62,"White","9 - 11th Grade","Married",172.63,"Good",40.7,2,1,118,110,0
+"1256",71784,"female",24,"White","High School","Married",3.76,"Vgood",19.3,3,0,106,104,1
+"1257",71785,"male",64,"Black","9 - 11th Grade","Divorced",517,"Good",28.4,3,0,136,134,0
+"1258",71786,"female",42,"Other","College Grad","Separated",11.25,"Excellent",20.6,4,0,104,110,1
+"1259",71792,"male",34,"White","College Grad","NeverMarried",693.41,"Excellent",25.6,6,0,108,102,1
+"1260",71793,"female",57,"White","College Grad","Married",18.66,"Good",34.6,7,0,130,128,0
+"1261",71796,"female",45,"White","Some College","Widowed",9.84,"Good",25.1,3,0,132,134,1
+"1262",71799,"male",59,"White","College Grad","NeverMarried",691.72,"Good",22.5,3,0,146,148,1
+"1263",71799,"male",59,"White","College Grad","NeverMarried",691.72,"Good",22.5,5,0,146,148,1
+"1264",71810,"male",33,"Hispanic","High School","Married",488.21,"Good",30,2,0,112,112,1
+"1265",71820,"male",47,"White","College Grad","Married",207.99,"Vgood",29.7,2,0,116,120,1
+"1266",71825,"female",53,"White","9 - 11th Grade","Married",20.5,"Poor",22.7,2,0,144,144,0
+"1267",71826,"female",77,"White","9 - 11th Grade","Widowed",3.82,"Fair",32.4,5,0,140,140,0
+"1268",71828,"female",49,"Mexican","High School","Married",17,"Good",37.5,4,0,114,138,1
+"1269",71847,"male",37,"White","College Grad","Married",179.81,"Good",26,6,0,116,116,1
+"1270",71855,"female",62,"White","High School","Married",155.79,"Good",35.9,5,1,162,150,0
+"1271",71855,"female",62,"White","High School","Married",155.79,"Good",35.9,5,1,162,150,0
+"1272",71857,"male",39,"White","College Grad","Married",360.15,"Excellent",23.8,2,0,120,118,1
+"1273",71868,"male",43,"Mexican","High School","Married",291,"Good",28.4,5,0,112,114,1
+"1274",71868,"male",43,"Mexican","High School","Married",291,"Good",28.4,4,0,112,114,1
+"1275",71873,"female",20,"White","Some College","LivePartner",39.07,"Good",29.3,6,1,98,102,1
+"1276",71907,"male",80,"White","High School","Married",402.9,"Good",23.2,4,0,150,150,0
+"1277",71907,"male",80,"White","High School","Married",402.9,"Good",23.2,7,0,150,150,0
+"1278",71908,"female",66,"White","College Grad","Widowed",26,"Excellent",35.1,5,0,110,114,1
+"1279",71911,"male",27,"Mexican","College Grad","Married",509,"Good",31.3,3,0,122,132,1
+"1280",71915,"male",60,"White","College Grad","NeverMarried",505.13,"Good",27.5,1,1,150,148,1
